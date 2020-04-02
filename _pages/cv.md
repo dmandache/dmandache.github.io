@@ -68,6 +68,10 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Languages
+======
+:us::fr: "I can absolument speak  toutes les langues, bineînţeles !"
+
 Interests
 ======
 * **arts**  music (blues, rock, jazz), theater

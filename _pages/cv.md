@@ -92,7 +92,7 @@ Interests
 * **humanities**  culture, ethics, linguistics
 * **outdoors**  hiking, travel
 
-### **Causes I stand for :** social equity, gender equality, LGBTQ rights
+**Causes I stand for :** social equity, gender equality, LGBTQ rights
 
 [Download my resume here](http://dmandache.github.io/files/CV_en.pdf)
 

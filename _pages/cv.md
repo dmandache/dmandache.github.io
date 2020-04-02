@@ -70,7 +70,7 @@ Teaching
   
 Languages
 ======
-:us::fr: "I can absolument speak  toutes les langues, bineînţeles !"
+:ro::us::fr::es: "I can absolument speak  toutes les langues, bineînţeles !"
 
 Interests
 ======

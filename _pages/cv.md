@@ -23,7 +23,7 @@ Education
       * image processing : mathematical morphology
       * computer vision and deep learning
       * introduction to medical imaging
-  * Practical Project : *Compressed  Sensing  based denoising, a Java Plugin for Icy Bioimaging Platform* [here](http://dmandache.github.io/files/2017_prat_project.pdf)
+  * Practical Project : *Compressed  Sensing  based denoising, a Java Plugin for Icy Bioimaging Platform* See the [report](http://dmandache.github.io/files/2017_prat_project.pdf) and [presentation](http://dmandache.github.io/files/2017_prat_presentation.pdf)
 
 * :computer: **BEng in Computer Science** 2016 
   * University of Craiova - [Faculty of Automation, Computers and Electronics](http://www.ace.ucv.ro/) -  Craiova, Romania
@@ -79,8 +79,8 @@ Languages
 
 ### "kind-of"lingual :
 * **Spanish** - 'telenovelas' were really popular when I was young
-* **Italian** - that's basically a free ticket if you're Romanian
-* **German** - went to a German kindergarten, can sing 'O Tanenbaum'
+* **Italian** - a free ride for Romanian speakers
+* **German** - learnt in kindergarten, can sing 'O Tanenbaum'
 
 Interests
 ======
@@ -88,7 +88,7 @@ Interests
 * **humanities**  culture, ethics, linguistics
 * **outdoors**  hiking, travel
 
-**Causes I stand for :** social equity, gender equality, LGBTQ rights
+### **Causes I stand for :** social equity, gender equality, LGBTQ rights
 
 [Download my resume here](http://dmandache.github.io/files/CV_en.pdf)
 

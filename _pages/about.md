@@ -4,7 +4,8 @@ title: "About"
 #excerpt: "About"
 author_profile: true
 layout: single
-header: "https://source.unsplash.com/user/erondu/1600x900"
+header: 
+  - image: "https://source.unsplash.com/user/erondu/1600x900"
 redirect_from: 
   - /about/
   - /about.html

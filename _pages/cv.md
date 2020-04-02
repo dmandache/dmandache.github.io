@@ -23,7 +23,7 @@ Education
       * image processing : mathematical morphology
       * computer vision and deep learning
       * introduction to medical imaging
-  * Practical Project : *Compressed  Sensing  based denoising, a Java Plugin for Icy Bioimaging Platform* See the [report](http://dmandache.github.io/files/2017_prat_project.pdf) and [presentation](http://dmandache.github.io/files/2017_prat_presentation.pdf)
+  * Practical Project : *Compressed  Sensing  based denoising, a Java Plugin for Icy Bioimaging Platform* (See the [report](http://dmandache.github.io/files/2017_prat_project.pdf) and [presentation](http://dmandache.github.io/files/2017_prat_presentation.pdf).)
 
 * :computer: **BEng in Computer Science** 2016 
   * University of Craiova - [Faculty of Automation, Computers and Electronics](http://www.ace.ucv.ro/) -  Craiova, Romania

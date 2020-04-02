@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * :boom: **PhD in Informatics** 2021 (expected)
-  * [LLTech SAS](http://www.lltech.co/) and [Bioimage Analysis Unit](https://research.pasteur.fr/en/team/bioimage-analysis/) of Pasteur Institute - Paris, France 
+  * [LLTech SAS](http://www.lltech.co/) and [Bioimage Analysis Unit](https://research.pasteur.fr/en/team/bioimage-analysis/) of Pasteur Institute of Paris - best of both worlds : exciting start-up and world-renowned research institute
   * Industry-oriented doctoral fellowship (CIFRE), Diploma issued by Sorbonne University
   * Thesis subject : *Machine learning methods applied for automatic detection of cancerous tumors in biopsies imaged with novel optical tomography techniques*
   
@@ -20,7 +20,10 @@ Education
   * University Pierre and Marie Curie, [Sorbonne Sciences](http://sciences.sorbonne-universite.fr/formation-0/masters/master-informatique/parcours-image-ima) - Paris, France
   * Scholarship of The French Government granted on academic criteria 
   * Cursus in :fr:
-  * Practical Project : *Compressed  Sensing  based denoising, a Java Plugin for Icy Bioimaging Platform*
+      * image processing : mathematical morphology
+      * computer vision and deep learning
+      * introduction to medical imaging
+  * Practical Project : *Compressed  Sensing  based denoising, a Java Plugin for Icy Bioimaging Platform* [here](http://dmandache.github.io/files/2017_prat_project.pdf)
 
 * :computer: **BEng in Computer Science** 2016 
   * University of Craiova - [Faculty of Automation, Computers and Electronics](http://www.ace.ucv.ro/) -  Craiova, Romania
@@ -29,7 +32,7 @@ Education
       * got introduced to plenty of `programming languages`: C/C++, Java, Python, Assembly, Prolog, Matlab, Weka
       * but also `hardware` aspects: computer architecutre, VHDL
       * and of course to `algorithmics` 
-  * Diploma Project : *Python application for simulation of analog electronic circuits with GUI*
+  * Diploma Project : *Python application for simulation of analog electronic circuits with GUI* [here](http://dmandache.github.io/files/2016_bachelors_project.pdf)
 
 * :triangular_ruler: **Baccalaureate in Mathematics & Informatics** 2012
     * [Frații Buzești National College](https://www.cnfb.ro/) - Craiova, Romania
@@ -84,6 +87,7 @@ Interests
 * **arts**  music (blues, rock, jazz), theater
 * **humanities**  culture, ethics, linguistics
 * **outdoors**  hiking, travel
+
 **Causes I stand for :** social equity, gender equality, LGBTQ rights
 
 [Download my resume here](http://dmandache.github.io/files/CV_en.pdf)

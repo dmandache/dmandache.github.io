@@ -66,7 +66,11 @@ Teaching
   
 Languages
 ======
-:us: :fr: "I can absolument speak  toutes les langues, bineînţeles !"
+* Romanian :baby_bottle: mother tongue
+* English - grew up with it
+* French - been living in Paris for 5 years
+* Spanish - telenovelas where really popular when I was young
+* Italian - that's basiccally a free ticket if you're Romanian
 
 Interests
 ======

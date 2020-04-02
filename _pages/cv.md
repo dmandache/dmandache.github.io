@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * :boom: **PhD in Informatics** 2021 (expected)
-  * [LLTech SAS](http://www.lltech.co/) and [Bioimage Analysis Unit](https://research.pasteur.fr/en/team/bioimage-analysis/) of Pasteur Institute of Paris - best of both worlds : exciting start-up and world-renowned research institute
+  * [LLTech SAS](http://www.lltech.co/) and [Bioimage Analysis Unit](https://research.pasteur.fr/en/team/bioimage-analysis/) of [Pasteur Institute of Paris](https://www.pasteur.fr/en) - best of both worlds : exciting start-up and world-renowned research institute
   * Industry-oriented doctoral fellowship (CIFRE), Diploma issued by Sorbonne University
   * Thesis subject : *Machine learning methods applied for automatic detection of cancerous tumors in biopsies imaged with novel optical tomography techniques*
   

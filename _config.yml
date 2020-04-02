@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Diana's Lair"
+title                    : "Diana Mandache"
 title_separator          : "-"
 name                     : &name "Diana Mandache"
-description              : &description "coucou la mif"
+description              : &description "That's my personal page."
 url                      : https://dmandache.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dmandache/dmandache.github.io"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Diana Mandache"
   avatar           : "avatar.jpg"
-  bio              : "I'm a big big girl \ In a big big world"
+  bio              : "I'm a big big girl in a big big world"
   location         : "Paris"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  employer         : LLTech   Pasteur Institute
+  pubmed           : 
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Diana_Mandache"
+  researchgate     : "https://www.researchgate.net/profile/Diana_Mandache"
   uri              :
   bitbucket        :
   codepen          :

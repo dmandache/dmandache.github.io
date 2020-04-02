@@ -11,24 +11,26 @@ redirect_from:
 
 Education
 ======
-* :boom: **PhD in Informatics** - 2021 (expected)
-  * LLTech SAS and Bioimage Analysis Unit of Pasteur Institute - Paris, France 
+* :boom: **PhD in Informatics** 2021 (expected)
+  * [LLTech SAS](http://www.lltech.co/) and [Bioimage Analysis Unit](https://research.pasteur.fr/en/team/bioimage-analysis/) of Pasteur Institute - Paris, France 
   * Industry-oriented doctoral fellowship (CIFRE), Diploma issued by Sorbonne University
   * Thesis subject : *Machine learning methods applied for automatic detection of cancerous tumors in biopsies imaged with novel optical tomography techniques*
   
-* :microscope: **MSc in Image Analysis** - 2017
-  * University Pierre and Marie Curie, Sorbonne Sciences - Paris, France
+* :microscope: **MSc in Image Analysis** 2017
+  * University Pierre and Marie Curie, [Sorbonne Sciences](http://sciences.sorbonne-universite.fr/formation-0/masters/master-informatique/parcours-image-ima) - Paris, France
   * Scholarship of The French Government granted on academic criteria 
   * Cursus in :fr:
   * Practical Project : *Compressed  Sensing  based denoising, a Java Plugin for Icy Bioimaging Platform*
 
-* :computer: **BEng in Computer Science** - 2016 
+* :computer: **BEng in Computer Science** 2016 
   * University of Craiova - Faculty of Automation, Computers and Electronics -  Craiova, Romania
   * Merit scholarship of The Romanian Government for academic excellence 
   * Cursus in :us:
   * Diploma Project : *Python application for simulation of analog electronic circuits with GUI*
 
-* :triangular_ruler: **Baccalaureate in Mathematics & Informatics** - Frații Buzești National College - Craiova, Romania - 2012
+* :triangular_ruler: **Baccalaureate in Mathematics & Informatics** 2012
+    * Frații Buzești National College - Craiova, Romania
+    * one of the oldest (est. 1882) and most prestigious High Schools in Romania
 
 
 Work experience

@@ -3,7 +3,6 @@ permalink: /
 title: "About"
 #excerpt: "About"
 author_profile: true
-layout: single
 header: 
   - image: "https://source.unsplash.com/user/erondu/1600x900"
 redirect_from: 

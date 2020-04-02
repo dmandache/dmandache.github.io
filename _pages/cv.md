@@ -19,7 +19,7 @@ Education
 * :microscope: **MSc in Image Analysis** - 2017
   * University Pierre and Marie Curie, Sorbonne Sciences - Paris, France
   * Scholarship of The French Government granted on academic criteria 
-  * cursus in :fr:
+  * Cursus in :fr:
   * Practical Project : *Compressed  Sensing  based denoising, a Java Plugin for Icy Bioimaging Platform*
 
 * :computer: **BEng in Computer Science** - 2016 

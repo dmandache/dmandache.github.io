@@ -14,6 +14,6 @@ This paper is about the number 1. The number 2 is left for future work.
 
 Check out the poster
 
-<object data="http://dmandach.github.io/files/2018_isbi_poster.pdf" width="1000" height="1000" type='application/pdf'/>
+<object data="http://dmandach.github.io/files/2018_isbi_poster.pdf" width="1000" height="1000" type='application/pdf'/></object>
 
 Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).

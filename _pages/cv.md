@@ -11,22 +11,22 @@ redirect_from:
 
 Education
 ======
-* 2021 (expected) - PhD in INFORMATICS 
-  * Pasteur Institute - Bioimage Analysis Unit and LLTech SAS, Paris, France 
-  * Industry-oriented doctoral fellowship (CIFRE), Sorbonne University
-  * *"Machine learning methods applied for automatic detection of cancerous tumors in biopsies imaged with novel optical tomography techniques"* 
+* :books: PhD in INFORMATICS - 2021 (expected)
+  * LLTech SAS and Bioimage Analysis Unit of Pasteur Institute - Paris, France 
+  * Industry-oriented doctoral fellowship (CIFRE), Diploma issued by Sorbonne University
+  * Thesis subject : Machine learning methods applied for automatic detection of cancerous tumors in biopsies imaged with novel optical tomography techniques 
   
-* 2017 - MSc in IMAGE PROCESSING (cursus in French)
-  * University Pierre and Marie Curie, Sorbonne Sciences, Paris, France
+* :microscope: MSc in IMAGE PROCESSING - 2017 (cursus in French)
+  * University Pierre and Marie Curie, Sorbonne Sciences - Paris, France
   * Scholarship of The French Government granted on academic criteria 
   * Practical Project : Compressed  Sensing  based denoising, a Java Plugin for Icy Bioimaging Platform 
 
-* 2016 - BEng in COMPUTER SCIENCE (cursus in English) 
-  * *University of Craiova, Faculty of Automation, Computers and Electronics*, Craiova, Romania
-  * Merit-scholarship of The Romanian Government for academic excellence 
+* :computer: BEng in COMPUTER SCIENCE - 2016 (cursus in English) 
+  * University of Craiova - Faculty of Automation, Computers and Electronics -  Craiova, Romania
+  * Merit scholarship of The Romanian Government for academic excellence 
   * Diploma Project : Python application for simulation of analog electronic circuits with UI
 
-* 2012 - BACCALAUREATE in Mathematics & Informatics - *Frații Buzești National College*, Craiova, Romania
+* :triangular_ruler: BACCALAUREATE in Mathematics & Informatics - Frații Buzești National College - Craiova, Romania - 2012
 
 
 Work experience
@@ -70,7 +70,7 @@ Teaching
   
 Languages
 ======
-:us: :fr: :es: "I can absolument speak  toutes les langues, bineînţeles !"
+:us: :fr: "I can absolument speak  toutes les langues, bineînţeles !"
 
 Interests
 ======

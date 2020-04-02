@@ -11,22 +11,22 @@ redirect_from:
 
 Education
 ======
-* 2018 2021 (expected) - PhD in INFORMATICS 
+* 2021 (expected) - PhD in INFORMATICS 
   * Pasteur Institute - Bioimage Analysis Unit and LLTech SAS, Paris, France 
   * Industry-oriented doctoral fellowship (CIFRE), Sorbonne University
   * *"Machine learning methods applied for automatic detection of cancerous tumors in biopsies imaged with novel optical tomography techniques"* 
   
-* 2016 2017 - MASTER OF SCIENCE in IMAGE PROCESSING (cursus in French)
+* 2017 - MSc in IMAGE PROCESSING (cursus in French)
   * University Pierre and Marie Curie, Sorbonne Sciences, Paris, France
   * Scholarship of The French Government granted on academic criteria 
   * Practical Project : Compressed  Sensing  based denoising, a Java Plugin for Icy Bioimaging Platform 
 
-* 2012 2016 - BACHELOR OF ENGINEERING in COMPUTER SCIENCE (cursus in English) 
+* 2016 - BEng in COMPUTER SCIENCE (cursus in English) 
   * *University of Craiova, Faculty of Automation, Computers and Electronics*, Craiova, Romania
   * Merit-scholarship of The Romanian Government for academic excellence 
   * Diploma Project : Python application for simulation of analog electronic circuits with UI
 
-* 2008 2012 - BACCALAUREATE in Mathematics & Informatics - *Frații Buzești National College*, Craiova, Romania
+* 2012 - BACCALAUREATE in Mathematics & Informatics - *Frații Buzești National College*, Craiova, Romania
 
 
 Work experience

@@ -16,14 +16,16 @@ Education
   * Industry-oriented doctoral fellowship (CIFRE), Diploma issued by Sorbonne University
   * Thesis subject : *Machine learning methods applied for automatic detection of cancerous tumors in biopsies imaged with novel optical tomography techniques*
   
-* :microscope: **MSc in Image Analysis** - 2017 (cursus in :fr:)
+* :microscope: **MSc in Image Analysis** - 2017
   * University Pierre and Marie Curie, Sorbonne Sciences - Paris, France
   * Scholarship of The French Government granted on academic criteria 
+  * cursus in :fr:
   * Practical Project : *Compressed  Sensing  based denoising, a Java Plugin for Icy Bioimaging Platform*
 
-* :computer: **BEng in Computer Science** - 2016 (cursus in :en:) 
+* :computer: **BEng in Computer Science** - 2016 
   * University of Craiova - Faculty of Automation, Computers and Electronics -  Craiova, Romania
   * Merit scholarship of The Romanian Government for academic excellence 
+  * Cursus in :us:
   * Diploma Project : *Python application for simulation of analog electronic circuits with GUI*
 
 * :triangular_ruler: **Baccalaureate in Mathematics & Informatics** - Frații Buzești National College - Craiova, Romania - 2012

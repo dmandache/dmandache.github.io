@@ -23,13 +23,13 @@ Education
   * Practical Project : *Compressed  Sensing  based denoising, a Java Plugin for Icy Bioimaging Platform*
 
 * :computer: **BEng in Computer Science** 2016 
-  * University of Craiova - Faculty of Automation, Computers and Electronics -  Craiova, Romania
+  * University of Craiova - [Faculty of Automation, Computers and Electronics](http://www.ace.ucv.ro/) -  Craiova, Romania
   * Merit scholarship of The Romanian Government for academic excellence 
   * Cursus in :us:
   * Diploma Project : *Python application for simulation of analog electronic circuits with GUI*
 
 * :triangular_ruler: **Baccalaureate in Mathematics & Informatics** 2012
-    * Frații Buzești National College - Craiova, Romania
+    * [Frații Buzești National College](https://www.cnfb.ro/) - Craiova, Romania
     * one of the oldest (est. 1882) and most prestigious High Schools in Romania
 
 

@@ -66,10 +66,11 @@ Teaching
   
 Languages
 ======
-### Trilingual :
-* **Romanian** :baby_bottle: mother tongue
-* **English** - grew up with it
-* **French** - been living in Paris for 5 years
+### Tri-lingual :
+* **Romanian** - mother tongue :baby_bottle:
+* **English** - grew up with it, [The Sims](https://www.ea.com/games/the-sims) then school
+* **French** - been living in Paris :pushpin: for 5 years
+
 ### "kind-of"lingual :
 * **Spanish** - telenovelas where really popular when I was young
 * **Italian** - that's basically a free ticket if you're Romanian

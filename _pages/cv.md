@@ -11,35 +11,27 @@ redirect_from:
 
 Education
 ======
-* :books: PhD in INFORMATICS - 2021 (expected)
+* :boom: **PhD in Informatics** - 2021 (expected)
   * LLTech SAS and Bioimage Analysis Unit of Pasteur Institute - Paris, France 
   * Industry-oriented doctoral fellowship (CIFRE), Diploma issued by Sorbonne University
-  * Thesis subject : Machine learning methods applied for automatic detection of cancerous tumors in biopsies imaged with novel optical tomography techniques 
+  * Thesis subject : *Machine learning methods applied for automatic detection of cancerous tumors in biopsies imaged with novel optical tomography techniques*
   
-* :microscope: MSc in IMAGE PROCESSING - 2017 (cursus in French)
+* :microscope: **MSc in Image Analysis** - 2017 (cursus in :fr:)
   * University Pierre and Marie Curie, Sorbonne Sciences - Paris, France
   * Scholarship of The French Government granted on academic criteria 
-  * Practical Project : Compressed  Sensing  based denoising, a Java Plugin for Icy Bioimaging Platform 
+  * Practical Project : *Compressed  Sensing  based denoising, a Java Plugin for Icy Bioimaging Platform*
 
-* :computer: BEng in COMPUTER SCIENCE - 2016 (cursus in English) 
+* :computer: **BEng in Computer Science** - 2016 (cursus in :en:) 
   * University of Craiova - Faculty of Automation, Computers and Electronics -  Craiova, Romania
   * Merit scholarship of The Romanian Government for academic excellence 
-  * Diploma Project : Python application for simulation of analog electronic circuits with UI
+  * Diploma Project : *Python application for simulation of analog electronic circuits with GUI*
 
-* :triangular_ruler: BACCALAUREATE in Mathematics & Informatics - Frații Buzești National College - Craiova, Romania - 2012
+* :triangular_ruler: **Baccalaureate in Mathematics & Informatics** - Frații Buzești National College - Craiova, Romania - 2012
 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======

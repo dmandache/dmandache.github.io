@@ -26,6 +26,9 @@ Education
   * University of Craiova - [Faculty of Automation, Computers and Electronics](http://www.ace.ucv.ro/) -  Craiova, Romania
   * Merit scholarship of The Romanian Government for academic excellence 
   * Cursus in :us:
+      * got introduced to plenty of `programming languages`: C/C++, Java, Python, Assembly, Prolog, Matlab, Weka
+      * but also `hardware` aspects: computer architecutre, VHDL
+      * and of course to `algorithmics` 
   * Diploma Project : *Python application for simulation of analog electronic circuits with GUI*
 
 * :triangular_ruler: **Baccalaureate in Mathematics & Informatics** 2012
@@ -66,22 +69,22 @@ Teaching
   
 Languages
 ======
-### Tri-lingual :
+### Trilingual :
 * **Romanian** - mother tongue :baby_bottle:
-* **English** - grew up with it, [The Sims](https://www.ea.com/games/the-sims) then school
-* **French** - been living in Paris :pushpin: for 5 years
+* **English** - grew up with it, [The Sims](https://www.ea.com/games/the-sims) then school, finally got a CAE certificate to prove it
+* **French** - been living in Paris:pushpin: for 5 years
 
 ### "kind-of"lingual :
-* **Spanish** - telenovelas where really popular when I was young
+* **Spanish** - 'telenovelas' were really popular when I was young
 * **Italian** - that's basically a free ticket if you're Romanian
-* **German** - went to a German kinder-garden, no joke
+* **German** - went to a German kindergarten, can sing 'O Tanenbaum'
 
 Interests
 ======
 * **arts**  music (blues, rock, jazz), theater
 * **humanities**  culture, ethics, linguistics
 * **outdoors**  hiking, travel
-
+**Causes I stand for :** social equity, gender equality, LGBTQ rights
 
 [Download my resume here](http://dmandache.github.io/files/CV_en.pdf)
 

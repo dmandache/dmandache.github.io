@@ -77,3 +77,5 @@ Interests
 * **arts**  music (blues, rock, jazz), theater
 * **humanities**  culture, ethics, linguistics
 * **outdoors**  hiking, travel
+
+<a href="dmandache.github.io/files/CV_en.pdf" target="_blank">PDF.</a>

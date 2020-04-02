@@ -78,4 +78,6 @@ Interests
 * **humanities**  culture, ethics, linguistics
 * **outdoors**  hiking, travel
 
-<a href="dmandache.github.io/files/CV_en.pdf" target="_blank">PDF.</a>
+
+[Download my resume here](http://dmandache.github.io/files/CV_en.pdf)
+

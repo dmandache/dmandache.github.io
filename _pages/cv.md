@@ -13,7 +13,7 @@ redirect_from:
 Education
 ======
 
-<img src="https://source.unsplash.com/photo/cdc/0dYvjPoPE0E/1600x900">
+<img src="https://source.unsplash.com/0dYvjPoPE0E/1600x900">
 
 ### :boom: **PhD in Informatics** <span style="font-weight:normal">2021 (expected)</span>
   * [LLTech SAS](http://www.lltech.co/) and [Bioimage Analysis Unit](https://research.pasteur.fr/en/team/bioimage-analysis/) of [Pasteur Institute of Paris](https://www.pasteur.fr/en) - best of both worlds : exciting start-up and world-renowned research institute

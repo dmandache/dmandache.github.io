@@ -16,4 +16,3 @@ redirect_from:
 
 <img src="https://source.unsplash.com/collection/1147077/1600x900">
 
-# Under Construction

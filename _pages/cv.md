@@ -50,7 +50,6 @@ Education
 
 Work experience
 ======
-
   
 Skills
 ======
@@ -60,6 +59,8 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+
+<img src="https://source.unsplash.com/FlPc9_VocJ4/1600x500">
 
 Publications
 ======

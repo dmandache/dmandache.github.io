@@ -14,7 +14,7 @@ description              : &description "That's my personal page."
 url                      : https://dmandache.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dmandache/dmandache.github.io"
-teaser                   : "avatar.jpg"
+teaser                   : 
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true

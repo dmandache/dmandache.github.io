@@ -4,6 +4,8 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 toc: true
+header:
+  - image : "/images/avatar.jpg"
 redirect_from:
   - /resume
 ---

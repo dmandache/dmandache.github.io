@@ -84,8 +84,7 @@ author:
   avatar           : "avatar.jpg"
   bio              : "I'm a big big girl in a big big world"
   location         : "Paris"
-  employer         : "<a href="http://www.lltech.co">LLTech</a>"
-  #"[LLTech](http://www.lltech.co/) and [Bioimage Analysis Unit - Pasteur Institute](https://research.pasteur.fr/en/team/bioimage-analysis/)"
+  employer         : "Doing my PhD at <a href='http://www.lltech.co'>LLTech</a> and <a href='https://research.pasteur.fr/en/team/bioimage-analysis/'>Bioimage Analysis Unit - Pasteur Institute</a>"
   pubmed           : 
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :

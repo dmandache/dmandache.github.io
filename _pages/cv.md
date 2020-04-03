@@ -14,7 +14,7 @@ Education
 ======
 
 
-### :boom: **PhD in Informatics** 2021 (expected)
+### :boom: **PhD in Informatics** <span style="font-weight:normal">2021 (expected)</span>
   * [LLTech SAS](http://www.lltech.co/) and [Bioimage Analysis Unit](https://research.pasteur.fr/en/team/bioimage-analysis/) of [Pasteur Institute of Paris](https://www.pasteur.fr/en) - best of both worlds : exciting start-up and world-renowned research institute
   * Industry-oriented doctoral fellowship (CIFRE), Diploma issued by Sorbonne University
   * Thesis subject : *Machine learning methods applied for automatic detection of cancerous tumors in biopsies imaged with novel optical tomography techniques*
@@ -41,8 +41,8 @@ Education
   * Diploma Project : *Python application for simulation of analog electronic circuits with GUI* [here](http://dmandache.github.io/files/2016_bachelors_project.pdf)
 
 ### :triangular_ruler: **Baccalaureate in Mathematics & Informatics** 2012
-    * [Frații Buzești National College](https://www.cnfb.ro/) - Craiova, Romania
-    * one of the oldest (est. 1882) and most prestigious High Schools in Romania
+   * [Frații Buzești National College](https://www.cnfb.ro/) - Craiova, Romania
+   * one of the oldest (est. 1882) and most prestigious High Schools in Romania
 
 
 Work experience

@@ -32,7 +32,7 @@ Education
   * Diploma Project : *Detection of cancerous tissue in Full-Field Optical Coherence Tomography images* 
   (See the [report](http://dmandache.github.io/files/2017_masters_project.pdf) and [presentation](http://dmandache.github.io/files/2017_masters_project_presentation.pdf).)
 
-<img src="https://source.unsplash.com/Kj2SaNHG-hg/1600x500">
+<img src="https://source.unsplash.com/CyFBmFEsytU/1600x500">
 
 ### :computer: **BEng in Computer Science**  <span style="font-weight:normal">2016</span> 
   * University of Craiova - [Faculty of Automation, Computers and Electronics](http://www.ace.ucv.ro/) -  Craiova, Romania

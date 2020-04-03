@@ -102,5 +102,5 @@ Interests
 
 **Causes I stand for :** social equity, gender equality, LGBTQ rights
 
-[Download my resume here](http://dmandache.github.io/files/CV_en.pdf)
+> If you made it to here maybe you want to [download my resume](http://dmandache.github.io/files/CV_en.pdf).
 

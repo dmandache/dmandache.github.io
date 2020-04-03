@@ -60,7 +60,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-<img src="https://source.unsplash.com/1K6IQsQbizI/1600x500">
+<img src="https://source.unsplash.com/aOC7TSLb1o8/1600x500">
 
 Publications
 ======

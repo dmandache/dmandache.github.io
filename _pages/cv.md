@@ -80,7 +80,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-<img src="https://source.unsplash.com/Q7G7DuhIE4E/1600x500">
+<img src="https://source.unsplash.com/vNrpgkrRtlk/1600x500">
 
 Languages
 ======

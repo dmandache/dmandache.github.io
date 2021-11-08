@@ -15,8 +15,8 @@ Education
 
 <img src="https://source.unsplash.com/0dYvjPoPE0E/1600x500">
 
-### :boom: **PhD in Informatics** <span style="font-weight:normal">2021 (expected)</span>
-  * [LLTech SAS](http://www.lltech.co/) and [Bioimage Analysis Unit](https://research.pasteur.fr/en/team/bioimage-analysis/) of [Pasteur Institute of Paris](https://www.pasteur.fr/en) - best of both worlds : exciting start-up and world-renowned research institute
+### :boom: **PhD in Informatics** <span style="font-weight:normal">2022 (expected in February)</span>
+  * [LLTech SAS](http://www.lltech.co/) and [Bioimage Analysis Unit](https://research.pasteur.fr/en/team/bioimage-analysis/) of [Institut Pasteur de Paris](https://www.pasteur.fr/en) - best of both worlds : exciting start-up and world-renowned research institute
   * Industry-oriented doctoral fellowship (CIFRE), Diploma issued by Sorbonne University
   * Thesis subject : *Machine learning methods applied for automatic detection of cancerous tumors in biopsies imaged with novel optical tomography techniques*
   
@@ -50,15 +50,32 @@ Education
 
 Work experience
 ======
-  
+### **Sainte-Anne Hospital, GHU Paris**  <span style="font-weight:normal">2021</span>
+   * extemporaneous biopsy imaging for clinical study
+   
+### **Sorbonne Sciences University, Paris, **  <span style="font-weight:normal">2021</span>
+   * mentoring master’s students for practical work
+
+### **Institut Pasteur de Tunis, Tunis**  <span style="font-weight:normal">2020</span>
+   * teaching assistant : Introduction to Python - intensive course for biologists.
+   * PHiND Access European Commission Project
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Machine Learning, Convolutional Neural Networks, Classification
+* Biomedical Imaging, Image Processing, Computer Vision
+* Data Analysis and Visualization
+* Object Oriented Programming, Algorithmics,  Compressed Sensing
+* Scientific Writing
+  
+Tools
+======
+* **Python** :
+  * Keras, TensorFlow, Scikits, NumPy, SciPy, OpenCV, Pandas
+  * Matplotlib, Seaborn  
+  * Jupyter Notebooks, Neptune.ai
+* Linux, Git, SLURM, Singularity, Latex
+* Java, C/C++, MATLAB
 
 <img src="https://source.unsplash.com/Oaqk7qqNh_c/1600x500">
 

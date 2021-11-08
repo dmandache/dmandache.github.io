@@ -50,14 +50,13 @@ Education
 
 Work experience
 ======
-### **Sainte-Anne Hospital, GHU Paris**  <span style="font-weight:normal">2021</span>
-   * extemporaneous biopsy imaging for clinical study
+#### **Sainte-Anne Hospital, GHU Paris** extemporaneous biopsy imaging for clinical study <span style="font-weight:normal">2021</span>
    
-### **Sorbonne Sciences University, Paris, **  <span style="font-weight:normal">2021</span>
-   * mentoring master’s students for practical work
+#### **Sorbonne Sciences University, Paris**  mentoring master’s students for practical work <span style="font-weight:normal">2021</span>
+   * 
 
-### **Institut Pasteur de Tunis, Tunis**  <span style="font-weight:normal">2020</span>
-   * teaching assistant : Introduction to Python - intensive course for biologists.
+#### **Institut Pasteur de Tunis, Tunis**  teaching assistant  <span style="font-weight:normal">2020</span>
+   * Introduction to Python - intensive course for biologists.
    * PHiND Access European Commission Project
 
 Skills

@@ -18,4 +18,4 @@ I have working experience in the medical device industry, mainly in tissue analy
 I have strong academic background with an industry oriented PhD in preparation (expected in February 2022) at Institut Pasteur and LLTech, a MSc focused in Image Processing from Université Sorbonne Sciences + Télécom ParisTech and a BEng in Computer Science. 
 I am very passionate about interdisciplinarity and diversity and ager to expand my knowledge in the biomedical field and interpretable AI.
 
-If you want to know more about my work take a look at my Publications or CV.
+If you want to know more about my work take a look at my [Publications](https://dmandache.github.io/publications/) or [CV](https://dmandache.github.io/cv/).

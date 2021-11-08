@@ -13,7 +13,7 @@ We propose a method to fully exploit the dynamic signal produced by a recently d
 
 ## Check out the spotlight presentation
                                          
-<object data="/files/2021_isbi_nmf_spotlight.pdf" type="application/pdf" height="100%">
+<object data="/files/2021_isbi_nmf_spotlight.pdf" type="application/pdf" width="100%" height="100%">
         <p>If this browser does not support PDFs. Please download the PDF to view it: <a href="http://dmandache.github.io/files/2021_isbi_nmf_spotlight.pdf">Download PDF</a>.</p>
 </object>
 

@@ -1,7 +1,7 @@
 ---
 title: 'Basal Cell Carcinoma (BCC) detection in Full-Field Optical Coherence Tomography (FFOCT) images using Convolutional Neural Networks (CNN)'
 collection: publications
-permalink: /publication/2018_isbi_paper.md
+permalink: /publication/2018_isbi_paper
 excerpt: 'In this paper we introduce a new application that exploits the emerging imaging modality of full field optical coherence tomography (FFOCT) as a means of optical biopsy. The objective is to build a computer-aided diagnosis (CAD) tool that can speed up the detection of tumoral areas in skin excisions resulting from Mohs surgery. Since there is little prior knowledge about the appearance of cancer cell morphology in this type of imagery, deep learning techniques are applied. Using convolutional neural networks (CNN), we train a feature extractor able to find representative characteristics for FFOCT data and a classifier that learns a generalized distribution of the data. With a dataset of 40 high-resolution images, we obtained a classification accuracy of 95.93%.'
 date: 2018-04-04
 venue: 'International Symposium on Biomedical Imaging (ISBI 2018)'

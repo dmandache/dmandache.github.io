@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Diana Mandache"
   avatar           : "avatar.jpg"
-  bio              : "I'm a big big girl in a big big world"
+  bio              : "Biomedical Image Analysis | ML Engineer | Industry PhD Student"
   location         : "Paris"
-  employer         : "Doing my PhD at <a href='http://www.lltech.co'>LLTech</a> and <a href='https://research.pasteur.fr/en/team/bioimage-analysis/'>Pasteur Institute</a>."
+  employer         : "<a href='http://www.lltech.co'>Light for Life Technologies - LLTech</a> and <a href='https://research.pasteur.fr/en/team/bioimage-analysis/'>Institut Pasteur</a>."
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "dmandache@lltech.co"
   researchgate     : "https://www.researchgate.net/profile/Diana_Mandache"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         : "diana-mandache-3b67b35a"
-  orcid            : 
+  orcid            : "0000-0002-7160-4093"
   pinterest        :
   soundcloud       :
   stackoverflow    : 

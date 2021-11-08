@@ -75,6 +75,8 @@ Work experience
    * Web design and promotion 
    * WordPress, Adobe Illustrator
 
+<img src="https://source.unsplash.com/vv-oEGlN-4E/1600x500">
+
 Skills
 ======
 * Machine Learning, Convolutional Neural Networks, Classification

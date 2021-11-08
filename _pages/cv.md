@@ -68,7 +68,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -78,18 +78,18 @@ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
 
 <img src="https://source.unsplash.com/vNrpgkrRtlk/1600x500">
 
 Languages
 ======
-### Trilingual :
+### Trilingual (full proficiency):
 * **Romanian** - mother tongue :baby_bottle:
-* **English** - grew up with it, [The Sims](https://www.ea.com/games/the-sims) then school, finally got a CAE certificate to prove it
-* **French** - been living in Paris:pushpin: for 5 years
+* **English** - grew up with it, [The Sims](https://www.ea.com/games/the-sims) then school, finally got a [CAE](https://www.cambridgeenglish.org/exams-and-tests/advanced/) certificate to prove it
+* **French** - living in Paris:pushpin: for 5+ years
 
-### "kind-of"lingual :
+### "kind-of"lingual (notions) :
 * **Spanish** - 'telenovelas' were really popular when I was young
 * **Italian** - a free ride for Romanian speakers
 * **German** - learnt in kindergarten, can sing 'O Tanenbaum'

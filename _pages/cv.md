@@ -50,13 +50,29 @@ Education
 
 Work experience
 ======
-**Sainte-Anne Hospital, GHU Paris** extemporaneous biopsy imaging for clinical study <span style="font-weight:normal">2021</span>
+### **Sainte-Anne Hospital, GHU Paris** extemporaneous biopsy imaging for clinical study <span style="font-weight:normal">2021</span>
 
-**Sorbonne Sciences University, Paris**  mentoring master’s students for practical work <span style="font-weight:normal">2021</span>
+### **Sorbonne Sciences University, Paris**  mentoring master’s students for practical work <span style="font-weight:normal">2021</span>
 
-**Institut Pasteur de Tunis, Tunis**  teaching assistant  <span style="font-weight:normal">2020</span>
+### **Institut Pasteur de Tunis, Tunis**  teaching assistant  <span style="font-weight:normal">2020</span>
    * Introduction to Python - intensive course for biologists.
    * PHiND Access European Commission Project
+
+### **Institut Pasteur de Paris, Paris**  research intern <span style="font-weight:normal">2017</span>
+   * Bioimage Analysis Unit in collaboration with LLTech SAS
+   * end of Master's internship
+   * Implementation of a Convolutional Neural Network for detecting cancerous areas in skin biopsies imaged with a Full Field OCT microscope developed by LLTech
+   * Python
+
+### **Institut supérieur d’électronique de Paris (ISEP), Paris**  research intern <span style="font-weight:normal">2015</span>
+   * Signal, Image an Telecommunication Laboratory (Lisite)
+   * Erasmus+ internship
+   * Development of natural images reconstruction algorithm based on Compressed Sensing
+   * MATLAB
+
+### **EWI Institute, Wien, Austria**  summer internship <span style="font-weight:normal">2015</span>
+   * Web design and promotion 
+   * WordPress, Adobe Illustrator
 
 Skills
 ======

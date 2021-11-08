@@ -102,13 +102,13 @@ Languages
 ======
 ### Trilingual (full proficiency):
 * **Romanian** - mother tongue :baby_bottle:
-* **English** - grew up with it, [The Sims](https://www.ea.com/games/the-sims) then school, finally got a [CAE](https://www.cambridgeenglish.org/exams-and-tests/advanced/) certificate to prove it
+* **English** - grew up with it, [The Sims](https://www.ea.com/games/the-sims) then undubbed movies, got a [CAE](https://www.cambridgeenglish.org/exams-and-tests/advanced/) certificate to prove it
 * **French** - living in Paris:pushpin: for 5+ years
 
 ### "kind-of"lingual (notions) :
 * **Spanish** - 'telenovelas' were really popular when I was young
 * **Italian** - a free ride for Romanian speakers
-* **German** - learnt in kindergarten, can sing 'O Tanenbaum'
+* **German** - learnt in kindergarten, can sing 'O Tannenbaum'
 
 Interests
 ======
@@ -118,5 +118,5 @@ Interests
 
 **Causes I stand for :** social equity, gender equality, LGBTQ rights
 
-> If you made it to here maybe you want to [download my resume](http://dmandache.github.io/files/CV_en.pdf).
+> If you made it this far maybe you want to [download my resume](http://dmandache.github.io/files/CV_en.pdf).
 

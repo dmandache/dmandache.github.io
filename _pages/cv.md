@@ -47,6 +47,7 @@ Education
    * [Frații Buzești National College](https://www.cnfb.ro/) - Craiova, Romania
    * one of the oldest (est. 1882) and most prestigious High Schools in Romania
 
+<img src="https://source.unsplash.com/rRDHlkSyoxY/1600x500">
 
 Work experience
 ======

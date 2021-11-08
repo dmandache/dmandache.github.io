@@ -1,7 +1,7 @@
 ---
 title: 'Blind Source Separation in Dynamic Cell Imaging using NonNegative Matrix Factorization applied to Breast Cancer Biopsies'
 collection: publications
-permalink: /publication/2018_isbi_paper
+permalink: /publication/2021_isbi_paper_nmf
 excerpt: 'We propose a method to fully exploit the dynamic signal produced by a recently developed non-invasive imaging modality: Dynamic Cell Imaging based on Full Field Optical Coherence Tomography, towards fast extemporaneous tissue assessment. The non-negative matrix factorisation method is used in an interpretable and quantifiable fashion to extract the signals coming from different structures of breast tissue in order to characterize cancerous tissue.'
 date: 2021-05-13
 venue: 'International Symposium on Biomedical Imaging (ISBI 2021)'

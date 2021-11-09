@@ -14,7 +14,7 @@ description              : &description "That's my personal page."
 url                      : https://dmandache.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dmandache/dmandache.github.io"
-teaser                   : 
+teaser                   :
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -74,8 +74,8 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
-  google:
+  provider               :  "google-analytics" # false (default), "google", "google-universal", "custom"
+  google-analytics:
     tracking_id          : "G-FQWH8LH3MK"
 
 
@@ -85,8 +85,8 @@ author:
   avatar           : "avatar.jpg"
   bio              : "Biomedical Image Analysis | ML Engineer | PhD Student @ <a href='http://www.lltech.co'>LLTech</a> and <a href='https://research.pasteur.fr/en/team/bioimage-analysis/'>Institut Pasteur</a>"
   location         : "Paris"
-  employer         : 
-  pubmed           : 
+  employer         :
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=HVjN1ocAAAAJ&hl=en"
   email            : "dmandache@lltech.co"
   researchgate     : "https://www.researchgate.net/profile/Diana_Mandache"
@@ -101,13 +101,13 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : 
+  impactstory      :
   lastfm           :
   linkedin         : "diana-mandache-3b67b35a"
   orcid            : "https://orcid.org/0000-0002-7160-4093"
   pinterest        :
   soundcloud       :
-  stackoverflow    : 
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          : "dieanne93"

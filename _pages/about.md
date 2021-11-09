@@ -16,6 +16,6 @@ redirect_from:
 My name is Diana Mandache and I am a Junior Research Engineer based in Paris, France. 
 I have working experience in the medical device industry, mainly in tissue analysis for cancer diagnosis. Skilled in Python for Data Analysis, Image Processing and Machine Learning.
 I have strong academic background with an industry oriented PhD in preparation (expected in February 2022) at Institut Pasteur and LLTech, a MSc focused in Image Processing from Université Sorbonne Sciences + Télécom ParisTech and a BEng in Computer Science. 
-I am very passionate about interdisciplinarity and diversity and ager to expand my knowledge in the biomedical field and interpretable AI.
+I am very passionate about interdisciplinarity and diversity and eager to expand my knowledge in the biomedical field and interpretable AI.
 
 If you want to know more about my work take a look at my [Publications](https://dmandache.github.io/publications/) or [CV](https://dmandache.github.io/cv/).

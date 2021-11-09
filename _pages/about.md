@@ -12,7 +12,7 @@ redirect_from:
 <!-- ![welcome](https://images.unsplash.com/photo-1514580597161-eb1c0b1a7971?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1490&q=80) -->
 <img src="https://source.unsplash.com/hV1gChgMa-k/1600x300">
 
-> My name is Diana Mandache and I am a Junior Research Engineer based in Paris, France (a fairly good place for having a sweet tooth).
+> My name is Diana Mandache and I am a Junior Research Engineer based in Paris, France - a fairly good place for having a sweet tooth.
 
 <img src="https://dmandache.github.io/images/profile_big.jpg">
 

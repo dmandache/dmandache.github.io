@@ -51,27 +51,28 @@ Education
 
 Work experience
 ======
-### <span style="font-weight:normal">2021</span> **Sainte-Anne Hospital, GHU Paris** extemporaneous biopsy imaging for clinical study
+### <span style="font-weight:normal">2021</span> **Sainte-Anne Hospital, GHU Paris** <span style="font-weight:normal">extemporaneous biopsy imaging for clinical study</span>
 
-### <span style="font-weight:normal">2021</span> **Sorbonne Sciences University, Paris**  mentoring master’s students for practical work
 
-### <span style="font-weight:normal">2020</span> **Institut Pasteur de Tunis, Tunis**  teaching assistant  <span style="font-weight:normal">2020</span>
+### <span style="font-weight:normal">2021</span> **Sorbonne Sciences University, Paris** <span style="font-weight:normal">mentoring master’s students for practical work</span>
+
+### <span style="font-weight:normal">2020</span> **Institut Pasteur de Tunis, Tunis** <span style="font-weight:normal">teaching assistant</span>
    * Introduction to Python - intensive course for biologists.
    * PHiND Access European Commission Project
 
-### <span style="font-weight:normal">2017</span> **Institut Pasteur de Paris, Paris**  research intern
+### <span style="font-weight:normal">2017</span> **Institut Pasteur de Paris, Paris** <span style="font-weight:normal">research intern</span>
    * Bioimage Analysis Unit in collaboration with LLTech SAS
    * end of Master's internship
    * Implementation of a Convolutional Neural Network for detecting cancerous areas in skin biopsies imaged with a Full Field OCT microscope developed by LLTech
    * Python
 
-### <span style="font-weight:normal">2015</span> **Institut supérieur d’électronique de Paris (ISEP), Paris**  research intern
+### <span style="font-weight:normal">2015</span> **Institut supérieur d’électronique de Paris (ISEP), Paris**  <span style="font-weight:normal">research intern</span>
    * Signal, Image an Telecommunication Laboratory (Lisite)
    * Erasmus+ internship
    * Development of natural images reconstruction algorithm based on Compressed Sensing
    * MATLAB
 
-### <span style="font-weight:normal">2015</span> **EWI Institute, Wien, Austria**  summer internship
+### <span style="font-weight:normal">2015</span> **EWI Institute, Wien, Austria**   <span style="font-weight:normal">intern</span>
    * Web design and promotion
    * WordPress, Adobe Illustrator
 

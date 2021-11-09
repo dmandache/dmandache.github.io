@@ -10,7 +10,9 @@ redirect_from:
   - /about.html
 ---
 <!-- ![welcome](https://images.unsplash.com/photo-1514580597161-eb1c0b1a7971?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1490&q=80) -->
+<img src="https://source.unsplash.com/collection/1147077/1600x200">
 <img src="https://dmandache.github.io/images/profile_big.jpg">
+<img src="https://source.unsplash.com/collection/1147077/1600x200">
 
 My name is Diana Mandache and I am a Junior Research Engineer based in Paris, France.
 
@@ -22,4 +24,5 @@ I am very passionate about interdisciplinarity and diversity and eager to expand
 
 If you want to know more about my work take a look at my [Publications](https://dmandache.github.io/publications/) or [CV](https://dmandache.github.io/cv/).
 
-<img src="https://source.unsplash.com/collection/1147077/1600x900">
+<!-- <img src="https://source.unsplash.com/collection/1147077/1600x900">
+ -->

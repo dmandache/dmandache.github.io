@@ -51,7 +51,10 @@ Education
 
 Work experience
 ======
-### <span style="font-weight:normal">2021</span> **Sainte-Anne Hospital, GHU Paris** <span style="font-weight:normal"><q>microscopist</q></span>
+
+> My work experience outside of the PhD resumes to two 6-month research internships in image analysis, some teaching assistant work on mentoring students in learning Python or implementing more complex practical projects and also participating in the sample/image aquisition stage of clinical studies.
+
+### <span style="font-weight:normal">2021</span> **Sainte-Anne Hospital, GHU Paris** <span style="font-weight:normal">microscopist</span>
   * biopsy imaging for clinical study in extemporaneous setting
 
 
@@ -123,12 +126,15 @@ Teaching
 
 Languages
 ======
+
+> I am very passionate about languages and linguisticts, especially discovering facts from anthropological history through etymology. This makes me excited to learn NLP in the future. 
+
 ### Trilingual (full proficiency):
 * **Romanian** - mother tongue :baby_bottle:
 * **English** - grew up with it, [The Sims](https://www.ea.com/games/the-sims) then undubbed movies, got a [CAE](https://www.cambridgeenglish.org/exams-and-tests/advanced/) certificate to prove it
 * **French** - living in Paris:pushpin: for 5+ years
 
-### "kind-of"lingual (notions) :
+### "kind-of" lingual (notions) :
 * **Spanish** - 'telenovelas' were really popular when I was young
 * **Italian** - a free ride for Romanian speakers
 * **German** - learnt in kindergarten, can sing 'O Tannenbaum'
@@ -141,4 +147,4 @@ Interests
 
 **Causes I stand for :** social equity, gender equality, LGBTQ rights
 
-> If you made it this far maybe you want to [download my resume](http://dmandache.github.io/files/CV_en.pdf).
+# If you made it this far maybe you want to [download my resume](http://dmandache.github.io/files/CV_en.pdf).

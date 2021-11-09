@@ -72,10 +72,7 @@ social:
 
 
 # Analytics
-analytics:
-  provider               :  "google-analytics" # false (default), "google", "google-universal", "custom"
-  google-analytics:
-    tracking_id          : "G-FQWH8LH3MK"
+google-analytics:      : "G-FQWH8LH3MK"
 
 
 # Site Author

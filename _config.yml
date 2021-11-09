@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -76,7 +76,6 @@ analytics:
   provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
   google-gtag:
     tracking_id          : "G-FQWH8LH3MK"
-    anonymize_ip         : # true, false (default)
 
 
 # Site Author

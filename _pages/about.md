@@ -24,5 +24,5 @@ I am very passionate about interdisciplinarity and diversity and eager to expand
 
 If you want to know more about my work take a look at my [CV](https://dmandache.github.io/cv/).
 
-<img src="https://source.unsplash.com/collection/1147077/1600x900">
+<img src="https://source.unsplash.com/collection/3326872/1600x900">
 

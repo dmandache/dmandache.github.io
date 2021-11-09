@@ -23,7 +23,7 @@ Education
 ### :microscope: **MSc in Image Analysis** <span style="font-weight:normal">2017</span>
   * University Pierre and Marie Curie, [Sorbonne Sciences](http://sciences.sorbonne-universite.fr/formation-0/masters/master-informatique/parcours-image-ima) - Paris, France
   * Scholarship of The French Government granted on academic criteria
-  * Cursus in :fr:
+  * Cursus in French :fr:
       * image processing : mathematical morphology
       * computer vision and deep learning
       * introduction to medical imaging
@@ -37,7 +37,7 @@ Education
 ### :computer: **BEng in Computer Science**  <span style="font-weight:normal">2016</span>
   * University of Craiova - [Faculty of Automation, Computers and Electronics](http://www.ace.ucv.ro/) -  Craiova, Romania
   * Merit scholarship of The Romanian Government for academic excellence
-  * Cursus in :us:
+  * Cursus in English :us:
       * got introduced to plenty of `programming languages`: C/C++, Java, Python, Assembly, Prolog, Matlab, Weka
       * but also `hardware` aspects: computer architecutre, VHDL
       * and of course to `algorithmics`
@@ -67,7 +67,7 @@ Work experience
    * Python
 
 ### <span style="font-weight:normal">2015</span> **Institut supérieur d’électronique de Paris (ISEP), Paris**  <span style="font-weight:normal">research intern</span>
-   * Signal, Image an Telecommunication Laboratory (Lisite)
+   * Signal, Image an Telecommunication Laboratory (LISITE)
    * Erasmus+ internship
    * Development of natural images reconstruction algorithm based on Compressed Sensing
    * MATLAB

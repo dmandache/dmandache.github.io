@@ -75,7 +75,7 @@ Work experience
    * Web design and promotion
    * WordPress, Adobe Illustrator
 
-<img src="https://dmandache.github.io/images/skills_wordle_repeat_nobg.png">
+<img src="https://source.unsplash.com/vv-oEGlN-4E/1600x500">
 
 Skills
 ======
@@ -87,12 +87,14 @@ Skills
 
 Tools
 ======
-* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/1200px-Python_logo_and_wordmark.svg.png" height="256"/>
+<img src="https://dmandache.github.io/images/skills_wordle_repeat_nobg.png">
+
+<!-- * **Python** :
   * Keras, TensorFlow, Scikits, NumPy, SciPy, OpenCV, Pandas
   * Matplotlib, Seaborn  
   * Jupyter Notebooks, Neptune.ai
 * Linux, Git, SLURM, Singularity, Latex
-* Java, C/C++, MATLAB
+* Java, C/C++, MATLAB -->
 
 <img src="https://source.unsplash.com/Oaqk7qqNh_c/1600x500">
 

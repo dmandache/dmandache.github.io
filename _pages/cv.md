@@ -59,7 +59,7 @@ Work experience
   * mentoring master’s students for practical work
 
 ### <span style="font-weight:normal">2020</span> **Institut Pasteur de Tunis, Tunis** <span style="font-weight:normal">teaching assistant</span>
-   * "Introduction to Python" intensive course for biologists.
+   * "Introduction to Python" intensive course for biologists
    * PHiND Access European Commission Project
 
 ### <span style="font-weight:normal">2017</span> **Institut Pasteur de Paris, Paris** <span style="font-weight:normal">research intern</span>
@@ -90,7 +90,7 @@ Skills
 
 Tools
 ======
-<img src="https://dmandache.github.io/images/skills_wordle_repeat_nobg.png">
+<img src="https://dmandache.github.io/images/skills_wordle_repeat_nobg.png" width="450">
 
 <!-- * **Python** :
   * Keras, TensorFlow, Scikits, NumPy, SciPy, OpenCV, Pandas

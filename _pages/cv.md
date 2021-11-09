@@ -141,10 +141,10 @@ Languages
 
 Interests
 ======
-* **arts**  music (blues, rock, jazz), theater
+* **arts**  music (blues, rock, jazz - avid Spotify curator), theater, stand-up comedy
 * **humanities**  culture, ethics, linguistics
 * **outdoors**  hiking, travel
 
-**Causes I stand for :** social equity, gender equality, LGBTQ rights
+**Causes I stand for :** social equity, gender equality, LGBTQ+ rights
 
 # If you made it this far maybe you want to [download my resume](http://dmandache.github.io/files/CV_en.pdf).

@@ -22,7 +22,7 @@ I have strong academic background with an industry oriented PhD in preparation (
 
 I am very passionate about interdisciplinarity and diversity and eager to expand my knowledge in the biomedical field and interpretable AI.
 
-If you want to know more about my work take a look at my [Publications](https://dmandache.github.io/publications/) or [CV](https://dmandache.github.io/cv/).
+If you want to know more about my work take a look at my [CV](https://dmandache.github.io/cv/).
 
 <img src="https://source.unsplash.com/collection/1147077/1600x900">
 

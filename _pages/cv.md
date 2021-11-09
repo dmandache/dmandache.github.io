@@ -92,12 +92,12 @@ Tools
 ======
 <img src="https://dmandache.github.io/images/skills_wordle_repeat_nobg.png" width="560">
 
-<!-- * **Python** :
+* **Python** :
   * Keras, TensorFlow, Scikits, NumPy, SciPy, OpenCV, Pandas
   * Matplotlib, Seaborn  
   * Jupyter Notebooks, Neptune.ai
 * Linux, Git, SLURM, Singularity, Latex
-* Java, C/C++, MATLAB -->
+* Java, C/C++, MATLAB
 
 <img src="https://source.unsplash.com/Oaqk7qqNh_c/1600x500">
 

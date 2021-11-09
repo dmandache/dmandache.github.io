@@ -75,7 +75,7 @@ Work experience
    * Web design and promotion
    * WordPress, Adobe Illustrator
 
-<img src="images/skills_wordle_repeat_nobg.png">
+<img src="https://dmandache.github.io/images/skills_wordle_repeat_nobg.png">
 
 Skills
 ======

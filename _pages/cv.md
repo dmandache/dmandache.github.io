@@ -90,7 +90,7 @@ Skills
 
 Tools
 ======
-<img src="https://dmandache.github.io/images/skills_wordle_repeat_nobg.png" width="450">
+<img src="https://dmandache.github.io/images/skills_wordle_repeat_nobg.png" width="560">
 
 <!-- * **Python** :
   * Keras, TensorFlow, Scikits, NumPy, SciPy, OpenCV, Pandas

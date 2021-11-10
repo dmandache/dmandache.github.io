@@ -147,4 +147,4 @@ Interests
 
 **Causes I stand for :** social equity, gender equality, LGBTQ+ rights
 
-# If you made it this far maybe you want to [download my resume](http://dmandache.github.io/files/CV_en.pdf).
+# If you made it this far maybe you want to [download my resume](http://dmandache.github.io/files/CV_en.pdf) or <a href = "mailto: diana.mandache00@gmail.com" target="_blank">get in touch</a>.

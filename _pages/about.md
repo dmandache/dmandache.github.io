@@ -9,7 +9,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!-- ![welcome](https://images.unsplash.com/photo-1514580597161-eb1c0b1a7971?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1490&q=80) -->
+
 <img src="https://source.unsplash.com/hV1gChgMa-k/1600x300">
 
 > My name is Diana Mandache and I am a Junior Research Engineer based in Paris, France - a fairly good place for having a sweet tooth.
@@ -24,5 +24,9 @@ redirect_from:
 > 
 > If you want to know more about my work take a look at my [CV](https://dmandache.github.io/cv/).
 
-<img src="https://source.unsplash.com/collection/3326872/1600x900">
 
+<img src="https://images.unsplash.com/photo-1514580597161-eb1c0b1a7971?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1490&q=80">
+
+<!-- <img src="https://source.unsplash.com/collection/3326872/1600x900"> -->
+
+<!-- ![welcome](https://images.unsplash.com/photo-1514580597161-eb1c0b1a7971?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1490&q=80) -->

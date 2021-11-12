@@ -258,11 +258,8 @@ permalink: /:categories/:title/
 # paginate_path: /page:num/
 timezone: Europe/Paris # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-remote_theme: jekyll/minima
-
 # Plugins
 plugins:
-  - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-sitemap

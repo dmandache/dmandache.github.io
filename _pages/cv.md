@@ -106,6 +106,7 @@ Tools
 
 Publications
 ======
+(non exhaustive list)
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>

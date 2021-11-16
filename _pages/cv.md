@@ -148,4 +148,4 @@ Interests
 
 **Causes I stand for :** social equity, gender equality, LGBTQ+ rights
 
-## If you made it this far maybe you want to <a href = "http://dmandache.github.io/files/CV_en.pdf" target="_blank">download my resume</a> or <a href = "mailto: diana.mandache00@gmail.com" target="_blank">get in touch</a>.
+## If you made it this far maybe you want to <a href = "http://dmandache.github.io/files/CV_en.pdf" target="_blank">download my resume</a> or <a href = "https://www.linkedin.com/in/diana-mandache/" target="_blank">get in touch</a>.

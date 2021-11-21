@@ -35,7 +35,7 @@ Education
 <img src="https://source.unsplash.com/-Rc6usOigMk/1600x500">
 
 ### :computer: **BEng in Computer Science**  <span style="font-weight:normal">2016</span>
-  * University of Craiova - [Faculty of Automation, Computers and Electronics](http://www.ace.ucv.ro/) -  Craiova, Romania
+  * University of Craiova, Faculty of Automation, Computers and Electronics -  Craiova, Romania
   * Merit scholarship of The Romanian Government for academic excellence
   * Cursus in English :us:
       * got introduced to plenty of `programming languages`: C/C++, Java, Python, Assembly, Prolog, Matlab, Weka

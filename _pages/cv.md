@@ -21,8 +21,8 @@ Education
   * Thesis subject : *Machine learning methods applied for automatic detection of cancerous tumors in biopsies imaged with novel optical tomography techniques*
 
 ### :microscope: **MSc in Image Analysis** <span style="font-weight:normal">2017</span>
-  * University Pierre and Marie Curie, [Sorbonne Sciences](http://sciences.sorbonne-universite.fr/formation-0/masters/master-informatique/parcours-image-ima) - Paris, France
-  * Scholarship of The French Government granted on academic criteria
+  * Université Pierre et Marie Curie, [Sorbonne Sciences](http://sciences.sorbonne-universite.fr/formation-0/masters/master-informatique/parcours-image-ima) - Paris, France
+  * Scholarship of Institut Français de Bucarest granted on academic criteria
   * Cursus in French :fr:
       * image processing : mathematical morphology
       * computer vision and deep learning

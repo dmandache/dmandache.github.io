@@ -18,7 +18,7 @@ redirect_from:
 
 > I have working experience in the medical device industry, mainly in tissue analysis for cancer diagnosis. Skilled in Python for Data Analysis, Image Processing and Machine Learning. 
 > 
-> I have strong academic background with an industry oriented PhD in preparation (expected in 2022) at Institut Pasteur and LLTech, a MSc focused in Image Processing from Université Sorbonne Sciences + Télécom ParisTech and a BEng in Computer Science.
+> I have strong academic background with an industry oriented PhD at Institut Pasteur and LLTech (medical device start-up), a MSc focused in Image Processing from Université Sorbonne Sciences + Télécom ParisTech and a BEng in Computer Science.
 > 
 > I am very passionate about interdisciplinarity and diversity and eager to expand my knowledge in the biomedical field and interpretable AI.
 > 

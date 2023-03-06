@@ -12,7 +12,7 @@ redirect_from:
 
 <img src="https://source.unsplash.com/hV1gChgMa-k/1600x300">
 
-> My name is Diana Mandache and I am a Junior Research Engineer based in Paris, France - a fairly good place for having a sweet tooth.
+> Hey there, my name is Diana Mandache and I am a fresh PhD graduate and R&D Engineer specialized in Image Analysis, Data Science and AI ! When I'm not tuning hyperparameter or crunching data, you can find me exploring the beautiful city of Paris, I might be sampling some fresh pastries or attending a concert at Olympia hall.
 
 <img src="https://dmandache.github.io/images/profile_big.jpg">
 

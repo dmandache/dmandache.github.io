@@ -24,7 +24,7 @@ Education
   * Université Pierre et Marie Curie, [Sorbonne Sciences](http://sciences.sorbonne-universite.fr/formation-0/masters/master-informatique/parcours-image-ima) - Paris, France
   * Scholarship of Institut Français de Bucarest granted on academic criteria
   * Cursus in French :fr:
-      * image processing : mathematical morphology
+      * image processing
       * computer vision and deep learning
       * introduction to medical imaging
   * Practical Project : *Compressed  Sensing  based denoising, a Java Plugin for Icy Bioimaging Platform*

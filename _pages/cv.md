@@ -18,7 +18,7 @@ Education
 ### :boom: **PhD in Informatics (AI/ML/CV)** <span style="font-weight:normal">2022</span>
   * industry-oriented doctoral fellowship (CIFRE) delivered by Sorbonne Universite
   * prepared at [LLTech SAS](http://www.lltech.co/) and [Bioimage Analysis Unit](https://research.pasteur.fr/en/team/bioimage-analysis/) of [Institut Pasteur de Paris](https://www.pasteur.fr/en) - best of both worlds : exciting start-up and world-renowned research institute
-  * Thesis subject : *Cancer Detection in Full Field Optical Coherence Tomography Images* (See [manuscript](https://www.theses.fr/2022SORUS370))
+  * Thesis subject : *Cancer Detection in Full Field Optical Coherence Tomography Images* (See [manuscript](https://www.theses.fr/2022SORUS370) and [presentation](http://dmandache.github.io/files/2022_phd_presentation.pdf).)
 
 ### :microscope: **MSc in Image Analysis** <span style="font-weight:normal">2017</span>
   * Université Pierre et Marie Curie, [Sorbonne Sciences](http://sciences.sorbonne-universite.fr/formation-0/masters/master-informatique/parcours-image-ima) - Paris, France
@@ -41,7 +41,7 @@ Education
       * got introduced to plenty of `programming languages`: C/C++, Java, Python, Assembly, Prolog, Matlab, Weka
       * but also `hardware` aspects: computer architecutre, VHDL
       * and of course to `algorithmics`
-  * Diploma Project : *Python application for simulation of analog electronic circuits with GUI* (See [manuscript](http://dmandache.github.io/files/2016_bachelors_project.pdf))
+  * Diploma Project : *Python application for simulation of analog electronic circuits with GUI* (See [manuscript](http://dmandache.github.io/files/2016_bachelors_project.pdf).)
 
 ### :triangular_ruler: **Baccalaureate in Mathematics & Informatics**  <span style="font-weight:normal">2012</span>
    * [Frații Buzești National College](https://www.cnfb.ro/) - Craiova, Romania

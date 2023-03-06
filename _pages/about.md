@@ -12,7 +12,9 @@ redirect_from:
 
 <img src="https://source.unsplash.com/hV1gChgMa-k/1600x300">
 
-> Hey there, my name is Diana Mandache and I am a fresh PhD graduate and R&D Engineer specialized in Image Analysis, Data Science and AI ! When I'm not tuning hyperparameter or crunching data, you can find me exploring the beautiful city of Paris, I might be sampling some fresh pastries or attending a concert at Olympia hall.
+> Hey there, my name is Diana Mandache and I am a fresh PhD graduate and R&D Engineer specialized in Image Analysis, Data Science and AI ! 
+> When I'm not tuning hyperparameter or crunching data, you can find me exploring the beautiful city of Paris, I might be sampling some fresh pastries or attending a concert at Olympia hall. 
+> I can't wait to see what the future holds, and I'm excited to be part of such a dynamic and ever-evolving industry.
 
 <img src="https://dmandache.github.io/images/profile_big.jpg">
 

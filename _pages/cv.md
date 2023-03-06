@@ -85,10 +85,12 @@ Work experience
 
 Skills
 ======
-* Machine Learning, Convolutional Neural Networks, Classification
+* Machine Learning, Deep Learning, Convolutional Neural Networks, Classification
+* different learning paradigms :  fully or weakly supervised, constrastive, unsupervised
 * Biomedical Imaging, Image Processing, Computer Vision
+* Compressed Sensing, Source Separation, Fourier Analysis 
 * Data Analysis and Visualization
-* Object Oriented Programming, Algorithmics,  Compressed Sensing
+* Object Oriented Programming, Algorithmics
 * Scientific Writing
 
 Tools

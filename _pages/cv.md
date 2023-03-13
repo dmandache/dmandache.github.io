@@ -16,12 +16,12 @@ Education
 <img src="https://source.unsplash.com/0dYvjPoPE0E/1600x500">
 
 ### :boom: **PhD in Informatics (AI/ML/CV)** <span style="font-weight:normal">2022</span>
-  * industry-oriented doctoral fellowship (CIFRE) delivered by Sorbonne Universite
+  * industry-oriented doctoral fellowship (CIFRE) delivered by Sorbonne Université
   * prepared at [LLTech SAS](http://www.lltech.co/) and [Bioimage Analysis Unit](https://research.pasteur.fr/en/team/bioimage-analysis/) of [Institut Pasteur de Paris](https://www.pasteur.fr/en) - best of both worlds : exciting start-up and world-renowned research institute
   * Thesis subject : [*Cancer Detection in Full Field Optical Coherence Tomography Images*](https://www.theses.fr/2022SORUS370) (See [manuscript](http://dmandache.github.io/files/2022_phd_thesis.pdf) and [presentation](http://dmandache.github.io/files/2022_phd_presentation.pdf).)
 
 ### :microscope: **MSc in Image Analysis** <span style="font-weight:normal">2017</span>
-  * Université Pierre et Marie Curie, [Sorbonne Sciences](http://sciences.sorbonne-universite.fr/formation-0/masters/master-informatique/parcours-image-ima) - Paris, France
+  * M2 [_Traitement Avancé des Images et Vision_](http://sciences.sorbonne-universite.fr/formation-0/masters/master-informatique/parcours-image-ima), Université Pierre et Marie Curie + Télécom ParisTech
   * Scholarship of Institut Français de Bucarest granted on academic criteria
   * Cursus in French :fr:
       * image processing

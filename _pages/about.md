@@ -16,7 +16,7 @@ redirect_from:
 > 
 > When I'm not tuning hyperparameters or crunching data, you can find me exploring the beautiful city of Paris, I might be indulging in some fresh pastries or enjoying a concert at Olympia hall. 
 > 
-> I can't wait to see what the future holds, and I'm excited to be part of such a dynamic and ever-evolving industry.
+> I can't wait to see what the future holds, and I'm excited to be part of such a dynamic and ever-evolving ecosystem.
 
 <img src="https://dmandache.github.io/images/profile_big.jpg">
 

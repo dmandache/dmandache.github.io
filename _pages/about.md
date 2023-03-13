@@ -26,7 +26,7 @@ redirect_from:
 > 
 > I am very passionate about interdisciplinarity and diversity and eager to expand my knowledge in the biomedical field and interpretable AI.
 > 
-> If you want to know more about my work take a look at my [CV](https://dmandache.github.io/cv/) or <a href = "mailto:diana.mandache00@gmail.com" target="_blank">contact me</a>.
+> If you want to know more about my work take a look at my [CV](https://dmandache.github.io/cv/) or <a href="mailto:diana.mandache00@gmail.com" target="_blank">contact me</a>.
 
 
 <!-- <img src="https://source.unsplash.com/collection/3326872/1600x900"> -->

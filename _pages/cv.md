@@ -21,7 +21,7 @@ Education
   * Thesis subject : [*Cancer Detection in Full Field Optical Coherence Tomography Images*](https://www.theses.fr/2022SORUS370) (See [manuscript](http://dmandache.github.io/files/2022_phd_thesis.pdf) and [presentation](http://dmandache.github.io/files/2022_phd_presentation.pdf).)
 
 ### :microscope: **MSc in Image Analysis** <span style="font-weight:normal">2017</span>
-  * M2 [_Traitement Avancé des Images et Vision_](http://sciences.sorbonne-universite.fr/formation-0/masters/master-informatique/parcours-image-ima), Université Pierre et Marie Curie + Télécom ParisTech
+  * M2 [Traitement Avancé des Images et Vision](http://sciences.sorbonne-universite.fr/formation-0/masters/master-informatique/parcours-image-ima), Université Pierre et Marie Curie + Télécom ParisTech
   * Scholarship of Institut Français de Bucarest granted on academic criteria
   * Cursus in French :fr:
       * image processing

@@ -4,7 +4,7 @@ title: "Bonjour"
 excerpt: "Bonjour"
 author_profile: true
 header:
-  - image: "<img width="1140" height="342" alt="image" src="https://github.com/user-attachments/assets/00deb11a-342e-4a88-bb85-c115cb108896" />"
+  - image: "https://github.com/user-attachments/assets/00deb11a-342e-4a88-bb85-c115cb108896"
 redirect_from:
   - /about/
   - /about.html

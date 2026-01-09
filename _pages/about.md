@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Home Page"
-excerpt: "Home Page"
+excerpt: "Diana Mandache's Home Page"
 author_profile: true
 header:
   - image: ""

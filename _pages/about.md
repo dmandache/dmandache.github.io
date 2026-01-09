@@ -23,7 +23,8 @@ Over the past decade, I’ve worked across **research labs, hospitals, and medic
 
 ### What I usually work on
 
-- 🧠 **Deep learning for medical imaging** CT, MRI, OCT, histology
+- 🧠 **Deep learning for medical imaging**
+  CT, MRI, OCT, histology
 
 - 🗂 **Multimodal data pipelines**  
   Imaging + clinical + longitudinal hospital data
@@ -34,7 +35,8 @@ Over the past decade, I’ve worked across **research labs, hospitals, and medic
 - 🤝 **Close collaboration with clinicians**  
   Radiologists, surgeons, and biostatisticians
 
-- 🏥 **Applications to Oncology** Breast, Liver, Skin, Brain
+- 🏥 **Applications to Oncology**
+  Breast, Liver, Skin, Brain
 
 - 🔁 **End-to-end ownership**  
   From data understanding to model evaluation and reporting
@@ -52,4 +54,4 @@ If you’re interested in **clinical AI, medical imaging, or decision-support sy
 - 📧 Email: <a href="mailto:diana.mandache00@gmail.com" target="_blank">diana.mandache00@gmail.com</a>  
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/diana-mandache/" target="_blank">linkedin.com/in/diana-mandache</a>  
 
-👉 You can also view my **[Extended CV](https://dmandache.github.io/cv/)** or download [PDF](http://dmandache.github.io/files/CV.pdf).
+👉 You can also view my **[Extended CV](https://dmandache.github.io/cv/)** or download [one-page PDF](http://dmandache.github.io/files/CV.pdf).

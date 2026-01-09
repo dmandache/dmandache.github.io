@@ -4,7 +4,7 @@ title: "Bonjour"
 excerpt: "Bonjour"
 author_profile: true
 header:
-  - image: "https://source.unsplash.com/collection/1147077/1600x900"
+  - image: "https://dmandache.github.io/images/profile_big.jpg"
 redirect_from:
   - /about/
   - /about.html
@@ -21,7 +21,6 @@ I build **robust, interpretable AI systems** for **high-stakes medical decision-
 
 **Currently:** multimodal clinical pipelines + generative modeling for **liver oncology** at HeKA and AP-HP.
 
-
 <img src="https://dmandache.github.io/images/profile_big.jpg">
 
 My work typically includes:
@@ -31,10 +30,14 @@ My work typically includes:
 - Close collaboration with **radiologists and clinicians**
 - Project ownership from **requirements → data → modeling → evaluation**
 
+---
+
 Outside work I enjoy exploring Paris, live music, and finding the best pastries in town.
 
+---
 
 For collaborations or roles in **data science / clinical AI / medical imaging / decision support**, feel free to reach out.
 - Email: <a href="mailto:diana.mandache00@gmail.com" target="_blank">diana.mandache00@gmail.com</a> 
-- LinkedIn: <a href="[mailto:diana.mandache00@gmail.com](https://www.linkedin.com/in/diana-mandache/)" target="_blank"> linkedin.com/in/diana-mandache</a> 
+- LinkedIn: <a href="https://www.linkedin.com/in/diana-mandache/" target="_blank"> linkedin.com/in/diana-mandache</a>
+  
 > Download [CV (PDF)](https://dmandache.github.io/cv/)

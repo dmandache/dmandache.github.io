@@ -1,43 +1,61 @@
 ---
 permalink: /
-title: "Bonjour"
-excerpt: "Bonjour"
+title: "Home Page"
+excerpt: "Home Page"
 author_profile: true
 header:
-  - image: "https://github.com/user-attachments/assets/00deb11a-342e-4a88-bb85-c115cb108896"
+  - image: ""
 redirect_from:
   - /about/
   - /about.html
 ---
 
-# Diana Mandache, PhD
-**Senior Data Scientist – Medical Imaging & Clinical AI (Paris, FR)**
+# Diana Mandache, PhD  
+**Senior Data Scientist – Medical Imaging & Clinical AI**  
+📍 Paris, France
 
-I build **robust, interpretable AI systems** for **high-stakes medical decision-making**, bridging research and real-world clinical constraints.
+Hi! I’m Diana 👋  
+I work on **AI for medical imaging**, with a focus on building **robust, interpretable models** that can actually be used in **clinical practice**.
 
-- 10+ years in Python-based scientific computing
-- Deep learning for medical imaging (CT, MRI, OCT, H&E)
-- Experience across academia, hospital data, and **CE-marked medical devices**
+Over the past decade, I’ve worked across **research labs, hospitals, and medical-device startups**, helping translate machine learning ideas into tools that support real medical decisions.
 
-**Currently:** multimodal clinical pipelines + generative modeling for **liver oncology** at HeKA and AP-HP.
+**Currently**, I’m developing **multimodal clinical pipelines and generative models** for **liver oncology** at **HeKA / AP-HP**.
 
 <img src="https://dmandache.github.io/images/profile_big.jpg">
 
-My work typically includes:
-- **Large-scale multimodal pipelines** (imaging + clinical + longitudinal data)
-- **Deep learning** for diagnosis, stratification, and representation learning
-- **Interpretability and validation** for clinically credible models
-- Close collaboration with **radiologists and clinicians**
-- Project ownership from **requirements → data → modeling → evaluation**
+---
+
+### What I usually work on
+
+- 🧠 **Deep learning for medical imaging**  
+  (CT, MRI, OCT, histology)
+
+- 🗂 **Multimodal data pipelines**  
+  Imaging + clinical + longitudinal hospital data
+
+- 🧪 **Diagnosis & patient stratification models**  
+  With a strong emphasis on **interpretability and validation**
+
+- 🤝 **Close collaboration with clinicians**  
+  Radiologists, surgeons, and biostatisticians
+
+- 🏥 **Applications to Oncology**
+  Breast, Liver, Skin, Brain
+
+- 🔁 **End-to-end ownership**  
+  From data understanding to model evaluation and reporting
 
 ---
 
-Outside work I enjoy exploring Paris, live music, and finding the best pastries in town.
+Outside of work, I enjoy exploring Paris, live music, and tracking down the best pastries in town 🥐🎶
 
 ---
 
-For collaborations or roles in **data science / clinical AI / medical imaging / decision support**, feel free to reach out.
-- Email: <a href="mailto:diana.mandache00@gmail.com" target="_blank">diana.mandache00@gmail.com</a> 
-- LinkedIn: <a href="https://www.linkedin.com/in/diana-mandache/" target="_blank"> linkedin.com/in/diana-mandache</a>
-  
-> Download [CV (PDF)](https://dmandache.github.io/cv/)
+### Get in touch
+
+If you’re interested in **clinical AI, medical imaging, or decision-support systems**, I’d be happy to connect.
+
+- 📧 Email: <a href="mailto:diana.mandache00@gmail.com" target="_blank">diana.mandache00@gmail.com</a>  
+- 💼 LinkedIn: <a href="https://www.linkedin.com/in/diana-mandache/" target="_blank">linkedin.com/in/diana-mandache</a>  
+
+👉 You can also view my **[Extended CV](https://dmandache.github.io/cv/)** or download PDF.

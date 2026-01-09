@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Extended CV"
 permalink: /cv/
 author_profile: true
 toc: true
@@ -14,13 +14,15 @@ Professional Experience
 ======
 
 ### **Research Engineer — Clinical AI & Liver Oncology**  
-**Université Paris Cité · Inria · Inserm (Paris Santé Campus)**  
+**Université Paris Cité · Inria · Inserm, Paris Santé Campus**  
 <span style="font-weight:normal">2024 – Present</span>
 
 - Design and analysis of **large-scale clinical datasets** for liver cancer patient stratification  
 - Development of **multimodal pipelines** combining CT, MRI, diagnostic and longitudinal data from hospital data warehouses (EDS AP-HP)  
 - Use of **VAE-based generative models** for robust representation learning and data augmentation  
 - Close collaboration with **radiologists and public-health clinicians**
+
+---
 
 ### **R&D Engineer — Medical Imaging & Decision Support**  
 **LLTech SAS (now CellTivity), Paris**  
@@ -32,21 +34,34 @@ Professional Experience
 - Contributed to a **CE-marked medical device**, one granted patent, and multiple peer-reviewed publications  
 - Acted as **first data hire**, reporting to academic, clinical, and business stakeholders
 
-### <span style="font-weight:normal">2017</span> **Institut Pasteur de Paris, Paris** <span style="font-weight:normal">research intern</span>
-   * Bioimage Analysis Unit in collaboration with LLTech SAS
-   * end of Master's internship
-   * implementation of a Convolutional Neural Network for detecting cancerous areas in skin biopsies imaged with a Full Field OCT microscope developed by LLTech
-   * Python
+---
 
-### <span style="font-weight:normal">2015</span> **Institut supérieur d’électronique de Paris (ISEP), Paris**  <span style="font-weight:normal">research intern</span>
-   * Signal, Image an Telecommunication Laboratory (LISITE)
-   * Erasmus+ internship
-   * development of natural images reconstruction algorithm based on Compressed Sensing
-   * MATLAB
+### **Research Intern — Biomedical Image Analysis**  
+**Institut Pasteur de Paris · Bioimage Analysis Unit, Paris**  
+<span style="font-weight:normal">2017</span>
 
-### <span style="font-weight:normal">2015</span> **EWI Institute, Wien, Austria**   <span style="font-weight:normal">intern</span>
-   * web design and promotion
-   * WordPress, Adobe Illustrator
+- End-of-MSc research internship in collaboration with LLTech SAS  
+- Implemented a **Convolutional Neural Network** for detecting cancerous regions in skin biopsies imaged with Full-Field OCT  
+- Python-based prototyping and experimental evaluation
+
+---
+
+### **Research Intern — Signal & Image Processing (Erasmus+)**  
+**Institut supérieur d’électronique de Paris (ISEP) · LISITE Laboratory, Paris**  
+<span style="font-weight:normal">2015</span>
+
+- Developed natural image reconstruction algorithms based on **Compressed Sensing**  
+- Experimental validation and implementation in **MATLAB**
+
+---
+
+### **Intern — Web Design & Digital Communication**  
+**EWI Institute, Vienna, Austria**  
+<span style="font-weight:normal">2015</span>
+
+- Web design and digital promotion for institutional content  
+- Tools: WordPress, Adobe Illustrator
+
 
 Teaching & Clinical Collaboration
 ======
@@ -95,7 +110,7 @@ Education
    * [Frații Buzești National College](https://www.cnfb.ro/) - Craiova, Romania
    * one of the oldest (est. 1882) and most prestigious High Schools in Romania
 
-Skills
+Technical Expertise
 ======
 ### Machine Learning & AI
 - Deep learning (CNNs, VAEs, contrastive & weakly supervised learning)
@@ -109,14 +124,6 @@ Skills
 - Python, PyTorch, TensorFlow, Scikit-learn  
 - Pandas, NumPy, SciPy, OpenCV  
 - Jupyter, Unix, Git, Slurm, Singularity
-
-Tools
-======
-* **Python** :
-  * PyTorch, Keras, TensorFlow, Scikits, NumPy, SciPy, OpenCV, Pandas
-  * Matplotlib, Seaborn  
-  * Jupyter Notebooks, Neptune.ai
-* Linux, Git, SLURM, Singularity, Latex
 
 Publications
 ======

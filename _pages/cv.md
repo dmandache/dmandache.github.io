@@ -13,8 +13,6 @@ redirect_from:
 Education
 ======
 
-<img src="https://source.unsplash.com/0dYvjPoPE0E/1600x500">
-
 ### :boom: **PhD in Informatics (AI/ML/CV)** <span style="font-weight:normal">2022</span>
   * industry-oriented doctoral fellowship (CIFRE) delivered by Sorbonne Université
   * prepared at [LLTech SAS](http://www.lltech.co/) and [Bioimage Analysis Unit](https://research.pasteur.fr/en/team/bioimage-analysis/) of [Institut Pasteur de Paris](https://www.pasteur.fr/en) - best of both worlds : exciting start-up and world-renowned research institute
@@ -32,8 +30,6 @@ Education
   * Diploma Project : *Detection of cancerous tissue in Full-Field Optical Coherence Tomography images*
   (See the [report](http://dmandache.github.io/files/2017_masters_project.pdf) and [presentation](http://dmandache.github.io/files/2017_masters_project_presentation.pdf).)
 
-<img src="https://source.unsplash.com/7oENZx_OuRk/1600x500">
-
 ### :computer: **BEng in Computer Science**  <span style="font-weight:normal">2016</span>
   * University of Craiova, Faculty of Automation, Computers and Electronics -  Craiova, Romania
   * Merit scholarship of The Romanian Government for academic excellence
@@ -46,8 +42,6 @@ Education
 ### :triangular_ruler: **Baccalaureate in Mathematics & Informatics**  <span style="font-weight:normal">2012</span>
    * [Frații Buzești National College](https://www.cnfb.ro/) - Craiova, Romania
    * one of the oldest (est. 1882) and most prestigious High Schools in Romania
-
-<img src="https://source.unsplash.com/hAYy2mFLjS8/1600x500">
 
 Work experience
 ======
@@ -104,8 +98,6 @@ Tools
 * Linux, Git, SLURM, Singularity, Latex
 * Java, C/C++, MATLAB
 
-<img src="https://source.unsplash.com/Oaqk7qqNh_c/1600x500">
-
 Publications
 ======
 (non exhaustive list)
@@ -125,8 +117,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
 
-<img src="https://source.unsplash.com/vNrpgkrRtlk/1600x500">
-
 Languages
 ======
 
@@ -134,8 +124,8 @@ Languages
 
 ### Trilingual (full proficiency):
 * **Romanian** - mother tongue :baby_bottle:
-* **English** - grew up with it, [The Sims](https://www.ea.com/games/the-sims) then undubbed movies, got a [CAE](https://www.cambridgeenglish.org/exams-and-tests/advanced/) certificate to prove it
-* **French** - living in Paris:pushpin: for 5+ years
+* **English** - got a [CAE](https://www.cambridgeenglish.org/exams-and-tests/advanced/) certificate to prove it
+* **French** - living in Paris:pushpin: for a decade
 
 ### "kind-of" lingual (notions) :
 * **Spanish** - 'telenovelas' were really popular when I was young

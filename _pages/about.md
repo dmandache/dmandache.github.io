@@ -10,10 +10,6 @@ redirect_from:
   - /about.html
 ---
 
-# Diana Mandache, PhD  
-**Senior Data Scientist – Medical Imaging & Clinical AI**  
-📍 Paris, France
-
 Hi! I’m Diana 👋  
 I work on **AI for medical imaging**, with a focus on building **robust, interpretable models** that can actually be used in **clinical practice**.
 
@@ -58,4 +54,4 @@ If you’re interested in **clinical AI, medical imaging, or decision-support sy
 - 📧 Email: <a href="mailto:diana.mandache00@gmail.com" target="_blank">diana.mandache00@gmail.com</a>  
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/diana-mandache/" target="_blank">linkedin.com/in/diana-mandache</a>  
 
-👉 You can also view my **[Extended CV](https://dmandache.github.io/cv/)** or download PDF.
+👉 You can also view my **[Extended CV](https://dmandache.github.io/cv/)** or download [PDF](http://dmandache.github.io/files/CV.pdf).

@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Diana Mandache"
 title_separator          : "-"
 name                     : &name "Diana Mandache"
-description              : &description "That's my personal page."
+description              : &description "Diana Mandache's personal page."
 url                      : https://dmandache.github.io # www.dianamandache.com  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dmandache/dmandache.github.io"
@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Diana Mandache"
   avatar           : "avatar.jpg"
-  bio              : "Biomedical Imaging & Clinical AI · Senior Data Scientist (PhD) · Research-to-Product"
+  bio              : "Biomedical Imaging & AI · Senior Data Scientist (PhD) · Research-to-Product"
   location         : "Paris"
   employer         :
   pubmed           :

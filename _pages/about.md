@@ -15,7 +15,7 @@ I work on **AI for medical imaging**, with a focus on building **robust, interpr
 
 Over the past decade, I’ve worked across **research labs, hospitals, and medical-device startups**, helping translate machine learning ideas into tools that support real medical decisions.
 
-**Currently**, I’m developing **multimodal clinical pipelines and generative models** for **liver oncology** at **HeKA / AP-HP**.
+**Currently**, I’m developing **multimodal clinical pipelines and generative models** for **liver oncology** at **HeKA** for **AP-HP**.
 
 <img src="https://dmandache.github.io/images/profile_big.jpg">
 
@@ -23,7 +23,7 @@ Over the past decade, I’ve worked across **research labs, hospitals, and medic
 
 ### What I usually work on
 
-- 🧠 **Deep learning for medical imaging**
+- 🧠 **Deep learning for medical imaging**  
   CT, MRI, OCT, histology
 
 - 🗂 **Multimodal data pipelines**  
@@ -35,7 +35,7 @@ Over the past decade, I’ve worked across **research labs, hospitals, and medic
 - 🤝 **Close collaboration with clinicians**  
   Radiologists, surgeons, and biostatisticians
 
-- 🏥 **Applications to Oncology**
+- 🏥 **Applications to Oncology**  
   Breast, Liver, Skin, Brain
 
 - 🔁 **End-to-end ownership**  

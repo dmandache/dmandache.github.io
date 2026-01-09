@@ -23,8 +23,7 @@ Over the past decade, I’ve worked across **research labs, hospitals, and medic
 
 ### What I usually work on
 
-- 🧠 **Deep learning for medical imaging**  
-  (CT, MRI, OCT, histology)
+- 🧠 **Deep learning for medical imaging** CT, MRI, OCT, histology
 
 - 🗂 **Multimodal data pipelines**  
   Imaging + clinical + longitudinal hospital data
@@ -35,8 +34,7 @@ Over the past decade, I’ve worked across **research labs, hospitals, and medic
 - 🤝 **Close collaboration with clinicians**  
   Radiologists, surgeons, and biostatisticians
 
-- 🏥 **Applications to Oncology**
-  Breast, Liver, Skin, Brain
+- 🏥 **Applications to Oncology** Breast, Liver, Skin, Brain
 
 - 🔁 **End-to-end ownership**  
   From data understanding to model evaluation and reporting

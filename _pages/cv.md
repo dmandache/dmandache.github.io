@@ -10,13 +10,65 @@ redirect_from:
 
 {% include base_path %}
 
+### **Profeesional Experience**
+======
+
+### **Research Engineer — Clinical AI & Liver Oncology**  
+**Université Paris Cité · Inria · Inserm (Paris Santé Campus)**  
+<span style="font-weight:normal">2024 – Present</span>
+
+- Design and analysis of **large-scale clinical datasets** for liver cancer patient stratification  
+- Development of **multimodal pipelines** combining CT, MRI, diagnostic and longitudinal data from hospital data warehouses (EDS AP-HP)  
+- Use of **VAE-based generative models** for robust representation learning and data augmentation  
+- Close collaboration with **radiologists and public-health clinicians**
+
+### **R&D Engineer — Medical Imaging & Decision Support**  
+**LLTech SAS (now CellTivity), Paris**  
+<span style="font-weight:normal">2018 – 2023</span>
+
+- Developed **interpretable AI models** for breast cancer diagnosis on a novel histopathology-like imaging modality (Full-Field OCT)  
+- Designed **mixed-supervision CNN systems** for diagnosis and biomarker discovery  
+- Owned the **full prototype lifecycle**: data curation, modeling, validation, and reporting  
+- Contributed to a **CE-marked medical device**, one granted patent, and multiple peer-reviewed publications  
+- Acted as **first data hire**, reporting to academic, clinical, and business stakeholders
+
+### <span style="font-weight:normal">2017</span> **Institut Pasteur de Paris, Paris** <span style="font-weight:normal">research intern</span>
+   * Bioimage Analysis Unit in collaboration with LLTech SAS
+   * end of Master's internship
+   * implementation of a Convolutional Neural Network for detecting cancerous areas in skin biopsies imaged with a Full Field OCT microscope developed by LLTech
+   * Python
+
+### <span style="font-weight:normal">2015</span> **Institut supérieur d’électronique de Paris (ISEP), Paris**  <span style="font-weight:normal">research intern</span>
+   * Signal, Image an Telecommunication Laboratory (LISITE)
+   * Erasmus+ internship
+   * development of natural images reconstruction algorithm based on Compressed Sensing
+   * MATLAB
+
+### <span style="font-weight:normal">2015</span> **EWI Institute, Wien, Austria**   <span style="font-weight:normal">intern</span>
+   * web design and promotion
+   * WordPress, Adobe Illustrator
+
+### **Teaching & Clinical Collaboration**
+======
+
+### <span style="font-weight:normal">2021</span> **Sainte-Anne Hospital, GHU Paris** <span style="font-weight:normal">microscopist</span>
+  * biopsy imaging for clinical study in extemporaneous setting (glioblastoma surgery)
+
+
+### <span style="font-weight:normal">2021</span> **Sorbonne Sciences University, Paris** <span style="font-weight:normal">teaching assistant</span>
+  * mentoring master’s students for practical work
+
+### <span style="font-weight:normal">2020</span> **Institut Pasteur de Tunis, Tunis** <span style="font-weight:normal">teaching assistant</span>
+   * "Introduction to Python" intensive course for biologists
+   * PHiND Access European Commission Project
+
 Education
 ======
 
 ### :boom: **PhD in Informatics (AI/ML/CV)** <span style="font-weight:normal">2022</span>
   * industry-oriented doctoral fellowship (CIFRE) delivered by Sorbonne Université
-  * prepared at [LLTech SAS](http://www.lltech.co/) and [Bioimage Analysis Unit](https://research.pasteur.fr/en/team/bioimage-analysis/) of [Institut Pasteur de Paris](https://www.pasteur.fr/en) - best of both worlds : exciting start-up and world-renowned research institute
-  * Thesis subject : [*Cancer Detection in Full Field Optical Coherence Tomography Images*](https://www.theses.fr/2022SORUS370) (See [manuscript](http://dmandache.github.io/files/2022_phd_thesis.pdf) and [presentation](http://dmandache.github.io/files/2022_phd_presentation.pdf).)
+  * prepared at [LLTech (now CellTivity)](http://www.lltech.co/) and [Bioimage Analysis Unit](https://research.pasteur.fr/en/team/bioimage-analysis/) of [Institut Pasteur de Paris](https://www.pasteur.fr/en) - best of both worlds : exciting start-up and world-renowned research institute
+  * Thesis subject : [*Cancer Detection in Full Field Optical Coherence Tomography Images*](https://www.theses.fr/2022SORUS370) (See [manuscript](http://dmandache.github.io/files/2022_phd_thesis.pdf) and [presentation](http://dmandache.github.io/files/2022_phd_presentation.pdf).) directed by Prof. Jean-Christophe OLIVO-MARIN.
 
 ### :microscope: **MSc in Image Analysis** <span style="font-weight:normal">2017</span>
   * M2 [Traitement Avancé des Images et Vision](http://sciences.sorbonne-universite.fr/formation-0/masters/master-informatique/parcours-image-ima), Université Pierre et Marie Curie + Télécom ParisTech
@@ -42,40 +94,6 @@ Education
 ### :triangular_ruler: **Baccalaureate in Mathematics & Informatics**  <span style="font-weight:normal">2012</span>
    * [Frații Buzești National College](https://www.cnfb.ro/) - Craiova, Romania
    * one of the oldest (est. 1882) and most prestigious High Schools in Romania
-
-Work experience
-======
-
-> My work experience outside of the PhD resumes to two 6-month research internships in image analysis, some teaching assistant work on mentoring students in learning Python or implementing more complex practical projects and also participating in the sample/image aquisition stage of clinical studies.
-
-### <span style="font-weight:normal">2021</span> **Sainte-Anne Hospital, GHU Paris** <span style="font-weight:normal">microscopist</span>
-  * biopsy imaging for clinical study in extemporaneous setting
-
-
-### <span style="font-weight:normal">2021</span> **Sorbonne Sciences University, Paris** <span style="font-weight:normal">teaching assistant</span>
-  * mentoring master’s students for practical work
-
-### <span style="font-weight:normal">2020</span> **Institut Pasteur de Tunis, Tunis** <span style="font-weight:normal">teaching assistant</span>
-   * "Introduction to Python" intensive course for biologists
-   * PHiND Access European Commission Project
-
-### <span style="font-weight:normal">2017</span> **Institut Pasteur de Paris, Paris** <span style="font-weight:normal">research intern</span>
-   * Bioimage Analysis Unit in collaboration with LLTech SAS
-   * end of Master's internship
-   * implementation of a Convolutional Neural Network for detecting cancerous areas in skin biopsies imaged with a Full Field OCT microscope developed by LLTech
-   * Python
-
-### <span style="font-weight:normal">2015</span> **Institut supérieur d’électronique de Paris (ISEP), Paris**  <span style="font-weight:normal">research intern</span>
-   * Signal, Image an Telecommunication Laboratory (LISITE)
-   * Erasmus+ internship
-   * development of natural images reconstruction algorithm based on Compressed Sensing
-   * MATLAB
-
-### <span style="font-weight:normal">2015</span> **EWI Institute, Wien, Austria**   <span style="font-weight:normal">intern</span>
-   * web design and promotion
-   * WordPress, Adobe Illustrator
-
-<img src="https://source.unsplash.com/vv-oEGlN-4E/1600x500">
 
 Skills
 ======

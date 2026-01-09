@@ -22,7 +22,6 @@ Professional Experience
 - Use of **VAE-based generative models** for robust representation learning and data augmentation  
 - Close collaboration with **radiologists and public-health clinicians**
 
----
 
 ### 🩺 **R&D Engineer — Medical Imaging & Decision Support**  
 **LLTech SAS (now CellTivity), Paris**  
@@ -34,7 +33,6 @@ Professional Experience
 - Contributed to a **CE-marked medical device**, one granted patent, and multiple peer-reviewed publications  
 - Acted as **first data hire**, reporting to academic, clinical, and business stakeholders
 
----
 
 ### 🔬 **Research Intern — Biomedical Image Analysis**  
 **Institut Pasteur de Paris · Bioimage Analysis Unit, Paris**  
@@ -44,7 +42,6 @@ Professional Experience
 - Implemented a **Convolutional Neural Network** for detecting cancerous regions in skin biopsies imaged with Full-Field OCT  
 - Python-based prototyping and experimental evaluation
 
----
 
 ### 📡 **Research Intern — Signal & Image Processing (Erasmus+)**  
 **Institut supérieur d’électronique de Paris (ISEP) · LISITE Laboratory, Paris**  
@@ -53,7 +50,6 @@ Professional Experience
 - Developed natural image reconstruction algorithms based on **Compressed Sensing**  
 - Experimental validation and implementation in **MATLAB**
 
----
 
 ### 🌐 **Intern — Web Design & Digital Communication**  
 **EWI Institute, Vienna, Austria**  
@@ -73,15 +69,11 @@ Teaching & Clinical Collaboration
 
 - Image aquisition of brain tissue biopsies with LLTech device for clinical study in extemporaneous settings (glioblastoma surgery)
 
----
-
 ### 🎓 **Teaching Assistant — Applied Machine Learning**  
 **Sorbonne Université, Paris**  
 <span style="font-weight:normal">2021</span>
 
 - Mentoring master’s students for practical projects related to image analysis and ML
-
----
 
 ### 🙋 **Teaching Assistant — Python for Biologists**  
 **Institut Pasteur de Tunis, Tunis**  
@@ -107,7 +99,6 @@ Education
    [presentation](http://dmandache.github.io/files/2022_phd_presentation.pdf))  
 - Supervised by Prof. Jean-Christophe Olivo-Marin
 
----
 
 ### 🔬 **MSc in Image Analysis**  
 **Université Pierre et Marie Curie (Paris VI) · Télécom Paris**  
@@ -118,7 +109,6 @@ Education
 - Practical project: *Compressed-Sensing-Based Denoising — Java Plugin for Icy*  
 - Master’s thesis: *Detection of Cancerous Tissue in FF-OCT Images*
 
----
 
 ### 💻 **BEng in Computer Science**  
 **University of Craiova, Romania**  
@@ -128,7 +118,6 @@ Education
 - Strong foundations in **algorithms, software engineering, and computer architecture**  
 - Diploma project: *Python Application for Analog Electronic Circuit Simulation with GUI*
 
----
 
 ### 📐 **Baccalaureate in Mathematics & Informatics**  
 **Frații Buzești National College, Craiova (RO)**  

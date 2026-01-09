@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-### **Profeesional Experience**
+Professional Experience
 ======
 
 ### **Research Engineer — Clinical AI & Liver Oncology**  
@@ -48,7 +48,7 @@ redirect_from:
    * web design and promotion
    * WordPress, Adobe Illustrator
 
-### **Teaching & Clinical Collaboration**
+Teaching & Clinical Collaboration
 ======
 
 ### <span style="font-weight:normal">2021</span> **Sainte-Anne Hospital, GHU Paris** <span style="font-weight:normal">microscopist</span>
@@ -97,24 +97,26 @@ Education
 
 Skills
 ======
-* Machine Learning, Deep Learning, Convolutional Neural Networks, Classification
-* different learning paradigms :  fully or weakly supervised, constrastive, unsupervised
-* Biomedical Imaging, Image Processing, Computer Vision
-* Compressed Sensing, Source Separation, Fourier Analysis 
-* Data Analysis and Visualization
-* Object Oriented Programming, Algorithmics
-* Scientific Writing
+### Machine Learning & AI
+- Deep learning (CNNs, VAEs, contrastive & weakly supervised learning)
+- Classification, representation learning, interpretability
+
+### Medical Imaging
+- CT, MRI, OCT  
+- Image processing, computer vision, biomedical data pipelines
+
+### Data & Engineering
+- Python, PyTorch, TensorFlow, Scikit-learn  
+- Pandas, NumPy, SciPy, OpenCV  
+- Jupyter, Unix, Git, Slurm, Singularity
 
 Tools
 ======
-<img src="https://dmandache.github.io/images/skills_wordle_repeat_nobg.png" width="560">
-
 * **Python** :
-  * Keras, TensorFlow, Scikits, NumPy, SciPy, OpenCV, Pandas
+  * PyTorch, Keras, TensorFlow, Scikits, NumPy, SciPy, OpenCV, Pandas
   * Matplotlib, Seaborn  
   * Jupyter Notebooks, Neptune.ai
 * Linux, Git, SLURM, Singularity, Latex
-* Java, C/C++, MATLAB
 
 Publications
 ======
@@ -140,15 +142,11 @@ Languages
 
 > I am very passionate about languages and linguisticts, especially discovering facts from anthropological history through etymology. This makes me excited to learn NLP in the future. 
 
-### Trilingual (full proficiency):
-* **Romanian** - mother tongue :baby_bottle:
-* **English** - got a [CAE](https://www.cambridgeenglish.org/exams-and-tests/advanced/) certificate to prove it
-* **French** - living in Paris:pushpin: for a decade
-
-### "kind-of" lingual (notions) :
-* **Spanish** - 'telenovelas' were really popular when I was young
-* **Italian** - a free ride for Romanian speakers
-* **German** - learnt in kindergarten, can sing 'O Tannenbaum'
+Trilingual:
+- **Romanian** — native  
+- **English** — fluent (CAE certified)  
+- **French** — fluent  
+- **Spanish / Italian / German** — basic notions
 
 Interests
 ======
@@ -158,4 +156,9 @@ Interests
 
 **Causes I stand for :** social equity, gender equality, LGBTQ+ rights
 
-## If you made it this far maybe you want to <a href = "http://dmandache.github.io/files/CV.pdf" target="_blank">download my resume</a> or <a href = "https://www.linkedin.com/in/diana-mandache/" target="_blank">get in touch</a>.
+## Contact
+
+If you are interested in collaborations or roles in **clinical AI, medical imaging, or decision-support systems**:
+
+👉 [Download my CV (PDF)](http://dmandache.github.io/files/CV.pdf)  
+👉 [Connect on LinkedIn](https://www.linkedin.com/in/diana-mandache/)

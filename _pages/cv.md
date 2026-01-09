@@ -14,7 +14,7 @@ Professional Experience
 ======
 
 ### 🧠 **Research Engineer — Clinical AI & Liver Oncology**  
-**HeKA · Université Paris Cité · Inria · Inserm, Paris Santé Campus**  
+**HeKA (Université Paris Cité · Inria · Inserm), Paris Santé Campus**  
 <span style="font-weight:normal">2024 – Present</span>
 
 - Design and analysis of **large-scale clinical datasets** for liver cancer patient stratification  
@@ -67,11 +67,11 @@ Professional Experience
 Teaching & Clinical Collaboration
 ======
 
-### 🏥 **Microscopist — Clinical Imaging**  
+### 🏥 **Microscopist — Clinical Image Aquisition**  
 **Sainte-Anne Hospital (GHU Paris)**  
 <span style="font-weight:normal">2021</span>
 
-- Biopsy imaging for clinical studies in extemporaneous settings (glioblastoma surgery)
+- Image aquisition of brain tissue biopsies with LLTech device for clinical study in extemporaneous settings (glioblastoma surgery)
 
 ---
 
@@ -79,11 +79,11 @@ Teaching & Clinical Collaboration
 **Sorbonne Université, Paris**  
 <span style="font-weight:normal">2021</span>
 
-- Mentoring master’s students for practical work in image analysis and ML
+- Mentoring master’s students for practical projects related to image analysis and ML
 
 ---
 
-### 🧪 **Teaching Assistant — Python for Biologists**  
+### 🙋 **Teaching Assistant — Python for Biologists**  
 **Institut Pasteur de Tunis, Tunis**  
 <span style="font-weight:normal">2020</span>
 
@@ -146,12 +146,12 @@ Technical Expertise
 - Classification, representation learning, interpretability
 
 ### 🧠 Medical Imaging
-- CT, MRI, OCT  
+- CT, MRI, OCT, H&E  
 - Image processing, computer vision, biomedical data pipelines
 
 ### 🛠 Data & Engineering
 - Python, PyTorch, TensorFlow, Scikit-learn  
-- Pandas, NumPy, SciPy, OpenCV  
+- Pandas, NumPy, SciPy, OpenCV,   
 - Jupyter, Unix, Git, Slurm, Singularity
 
 ---
@@ -173,10 +173,10 @@ Languages
 
 > I am passionate about languages and linguistics, particularly discovering anthropological history through etymology.
 
-- 🇷🇴 **Romanian** — native  
-- 🇬🇧 **English** — fluent (CAE certified)  
-- 🇫🇷 **French** — fluent  
-- 🇪🇸 🇮🇹 🇩🇪 **Spanish / Italian / German** — basic notions
+- **Romanian** — native  
+- **English** — fluent (CAE certified)  
+- **French** — fluent  
+- **Spanish / Italian / German** — basic notions
 
 ---
 

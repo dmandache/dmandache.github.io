@@ -14,7 +14,7 @@ Professional Experience
 ======
 
 ### **Research Engineer — Clinical AI & Liver Oncology**  
-**Université Paris Cité · Inria · Inserm, Paris Santé Campus**  
+**HeKA (Université Paris Cité · Inria · Inserm), Paris Santé Campus**  
 <span style="font-weight:normal">2024 – Present</span>
 
 - Design and analysis of **large-scale clinical datasets** for liver cancer patient stratification  
